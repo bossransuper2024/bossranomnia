@@ -438,3 +438,2724 @@
             --ws-surface-decoration-background-color-opacity: 1;
             --ws-surface-decoration-text-color: var(--ws-color-light-0)
           }
+
+          [data-surface].ws-light-1 {
+            --ws-surface-form-date-time-picker-wrapper-background-color: var(--ws-color-text-white);
+            --ws-surface-form-date-time-picker-current-month-color: var(--ws-color-text-black);
+            --ws-surface-form-date-time-picker-line-color: var(--ws-color-light-100);
+            --ws-surface-form-date-time-picker-current-day-color: var(--ws-color-text-white);
+            --ws-surface-form-date-time-picker-current-day-background: var(--ws-color-primary-900);
+            --ws-surface-form-date-time-picker-current-day-background-hover: var(--ws-color-light-50);
+            --ws-surface-form-date-time-picker-icon-color: var(--ws-color-primary-900);
+            --ws-surface-form-date-time-picker-icon-hover-color: var(--ws-color-primary-800);
+            --ws-surface-form-date-time-picker-other-month-color: var(--ws-color-text-black);
+            --ws-surface-form-date-time-picker-other-month-color-opacity: 0.32;
+            --ws-surface-form-date-time-picker-weekday-color: var(--ws-color-text-black);
+            --ws-surface-form-date-time-picker-weekday-color-opacity: 0.61;
+            --ws-surface-form-time-picker-background-color: var(--ws-color-text-white);
+            --ws-surface-form-time-picker-background-hover: var(--ws-color-light-50);
+            --ws-surface-form-time-picker-color: var(--ws-color-text-black);
+            --ws-surface-form-time-picker-line-color: var(--ws-color-light-100);
+            --ws-surface-background-color: var(--ws-color-light-100);
+            --ws-surface-border-color: var(--ws-color-light-400);
+            --ws-surface-focus-outline-color: var(--ws-color-info-100);
+            --ws-surface-focus-outline-color-opacity: 1;
+            --ws-surface-error-focus-outline-color: var(--ws-color-error-200);
+            --ws-surface-error-focus-outline-color-opacity: 1;
+            --ws-surface-primary-button-1-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-1-background-opacity: 1;
+            --ws-surface-primary-button-1-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-1-text-color-opacity: 1;
+            --ws-surface-primary-button-1-border-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-1-border-opacity: 1;
+            --ws-surface-primary-button-1-hover-background-color: var(--ws-color-primary-700);
+            --ws-surface-primary-button-1-hover-background-opacity: 1;
+            --ws-surface-primary-button-1-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-1-hover-text-color-opacity: 1;
+            --ws-surface-primary-button-1-hover-border-color: var(--ws-color-primary-700);
+            --ws-surface-primary-button-1-hover-border-opacity: 1;
+            --ws-surface-primary-button-1-active-background-color: var(--ws-color-primary-900);
+            --ws-surface-primary-button-1-active-background-opacity: 1;
+            --ws-surface-primary-button-1-active-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-1-active-text-color-opacity: 1;
+            --ws-surface-primary-button-1-active-border-color: var(--ws-color-primary-900);
+            --ws-surface-primary-button-1-active-border-opacity: 1;
+            --ws-surface-primary-button-1-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-1-disabled-background-opacity: 0.04;
+            --ws-surface-primary-button-1-disabled-text-color: var(--ws-color-text-black);
+            --ws-surface-primary-button-1-disabled-text-color-opacity: 0.32;
+            --ws-surface-primary-button-1-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-1-disabled-border-opacity: 0.04;
+            --ws-surface-primary-button-2-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-background-opacity: 0;
+            --ws-surface-primary-button-2-icon-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-icon-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-icon-opacity: 1;
+            --ws-surface-primary-button-2-text-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-text-color-opacity: 1;
+            --ws-surface-primary-button-2-border-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-border-opacity: 0;
+            --ws-surface-primary-button-2-hover-background-color: 30, 83%, 50%;
+            --ws-surface-primary-button-2-hover-background-opacity: 0;
+            --ws-surface-primary-button-2-hover-icon-background-color: 30, 83%, 50%;
+            --ws-surface-primary-button-2-hover-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-hover-icon-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-hover-icon-opacity: 1;
+            --ws-surface-primary-button-2-hover-text-color: 30, 83%, 50%;
+            --ws-surface-primary-button-2-hover-text-color-opacity: 1;
+            --ws-surface-primary-button-2-hover-border-color: 30, 83%, 50%;
+            --ws-surface-primary-button-2-hover-border-opacity: 0;
+            --ws-surface-primary-button-2-active-background-color: 22, 87%, 45%;
+            --ws-surface-primary-button-2-active-background-opacity: 0;
+            --ws-surface-primary-button-2-active-icon-background-color: 22, 87%, 45%;
+            --ws-surface-primary-button-2-active-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-active-icon-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-active-icon-opacity: 1;
+            --ws-surface-primary-button-2-active-text-color: 22, 87%, 45%;
+            --ws-surface-primary-button-2-active-text-color-opacity: 1;
+            --ws-surface-primary-button-2-active-border-color: 22, 87%, 45%;
+            --ws-surface-primary-button-2-active-border-opacity: 0;
+            --ws-surface-primary-button-2-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-disabled-background-opacity: 0;
+            --ws-surface-primary-button-2-disabled-icon-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-disabled-icon-background-opacity: 0.04;
+            --ws-surface-primary-button-2-disabled-icon-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-disabled-icon-opacity: 0.15;
+            --ws-surface-primary-button-2-disabled-text-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-disabled-text-color-opacity: 0.65;
+            --ws-surface-primary-button-2-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-disabled-border-opacity: 0;
+            --ws-surface-secondary-button-1-background-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-1-background-opacity: 1;
+            --ws-surface-secondary-button-1-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-1-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-border-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-1-border-opacity: 1;
+            --ws-surface-secondary-button-1-hover-background-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-1-hover-background-opacity: 0.4;
+            --ws-surface-secondary-button-1-hover-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-1-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-hover-border-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-1-hover-border-opacity: 0.4;
+            --ws-surface-secondary-button-1-active-background-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-1-active-background-opacity: 0.4;
+            --ws-surface-secondary-button-1-active-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-1-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-active-border-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-1-active-border-opacity: 0.4;
+            --ws-surface-secondary-button-1-disabled-background-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-1-disabled-background-opacity: 0.26;
+            --ws-surface-secondary-button-1-disabled-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-1-disabled-text-color-opacity: 0.32;
+            --ws-surface-secondary-button-1-disabled-border-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-1-disabled-border-opacity: 0.26;
+            --ws-surface-secondary-button-2-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-background-opacity: 0;
+            --ws-surface-secondary-button-2-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-2-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-border-opacity: 1;
+            --ws-surface-secondary-button-2-hover-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-hover-background-opacity: 1;
+            --ws-surface-secondary-button-2-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-2-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-hover-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-hover-border-opacity: 1;
+            --ws-surface-secondary-button-2-active-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-active-background-opacity: 1;
+            --ws-surface-secondary-button-2-active-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-2-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-active-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-active-border-opacity: 1;
+            --ws-surface-secondary-button-2-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-2-disabled-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-2-disabled-text-color-opacity: 0.32;
+            --ws-surface-secondary-button-2-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-disabled-border-opacity: 0.04;
+            --ws-surface-secondary-button-3-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-background-opacity: 0;
+            --ws-surface-secondary-button-3-text-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-border-opacity: 1;
+            --ws-surface-secondary-button-3-hover-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-hover-background-opacity: 1;
+            --ws-surface-secondary-button-3-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-3-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-hover-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-hover-border-opacity: 1;
+            --ws-surface-secondary-button-3-active-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-active-background-opacity: 1;
+            --ws-surface-secondary-button-3-active-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-3-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-active-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-active-border-opacity: 1;
+            --ws-surface-secondary-button-3-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-3-disabled-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-3-disabled-text-color-opacity: 0.32;
+            --ws-surface-secondary-button-3-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-disabled-border-opacity: 0.04;
+            --ws-surface-secondary-button-4-background-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-4-background-opacity: 0;
+            --ws-surface-secondary-button-4-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-4-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-border-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-4-border-opacity: 1;
+            --ws-surface-secondary-button-4-hover-background-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-4-hover-background-opacity: 1;
+            --ws-surface-secondary-button-4-hover-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-4-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-hover-border-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-4-hover-border-opacity: 1;
+            --ws-surface-secondary-button-4-active-background-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-4-active-background-opacity: 1;
+            --ws-surface-secondary-button-4-active-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-4-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-active-border-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-4-active-border-opacity: 1;
+            --ws-surface-secondary-button-4-disabled-background-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-4-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-4-disabled-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-4-disabled-text-color-opacity: 0.32;
+            --ws-surface-secondary-button-4-disabled-border-color: var(--ws-color-light-300);
+            --ws-surface-secondary-button-4-disabled-border-opacity: 0.26;
+            --ws-surface-secondary-button-5-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-5-background-opacity: 1;
+            --ws-surface-secondary-button-5-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-5-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-5-border-opacity: 1;
+            --ws-surface-secondary-button-5-hover-background-color: var(--ws-color-primary-700);
+            --ws-surface-secondary-button-5-hover-background-opacity: 1;
+            --ws-surface-secondary-button-5-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-5-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-hover-border-color: var(--ws-color-primary-700);
+            --ws-surface-secondary-button-5-hover-border-opacity: 1;
+            --ws-surface-secondary-button-5-active-background-color: var(--ws-color-primary-900);
+            --ws-surface-secondary-button-5-active-background-opacity: 1;
+            --ws-surface-secondary-button-5-active-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-5-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-active-border-color: var(--ws-color-primary-900);
+            --ws-surface-secondary-button-5-active-border-opacity: 1;
+            --ws-surface-secondary-button-5-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-5-disabled-background-opacity: 0.04;
+            --ws-surface-secondary-button-5-disabled-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-5-disabled-text-color-opacity: 0.32;
+            --ws-surface-secondary-button-5-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-5-disabled-border-opacity: 0.04;
+            --ws-surface-secondary-button-6-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-background-opacity: 0;
+            --ws-surface-secondary-button-6-text-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-border-opacity: 0;
+            --ws-surface-secondary-button-6-hover-background-color: 30, 83%, 50%;
+            --ws-surface-secondary-button-6-hover-background-opacity: 0;
+            --ws-surface-secondary-button-6-hover-text-color: 30, 83%, 50%;
+            --ws-surface-secondary-button-6-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-hover-border-color: 30, 83%, 50%;
+            --ws-surface-secondary-button-6-hover-border-opacity: 0;
+            --ws-surface-secondary-button-6-active-background-color: 22, 87%, 45%;
+            --ws-surface-secondary-button-6-active-background-opacity: 0;
+            --ws-surface-secondary-button-6-active-text-color: 22, 87%, 45%;
+            --ws-surface-secondary-button-6-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-active-border-color: 22, 87%, 45%;
+            --ws-surface-secondary-button-6-active-border-opacity: 0;
+            --ws-surface-secondary-button-6-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-6-disabled-text-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-disabled-text-color-opacity: 0.65;
+            --ws-surface-secondary-button-6-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-disabled-border-opacity: 0;
+            --ws-surface-text-color: var(--ws-color-text-black);
+            --ws-surface-text-high-emphasis-opacity: 1;
+            --ws-surface-text-medium-emphasis-opacity: 0.61;
+            --ws-surface-text-disabled-emphasis-opacity: 0.32;
+            --ws-surface-link-text-color: var(--ws-color-secondary-900);
+            --ws-surface-link-text-color-opacity: 1;
+            --ws-surface-link-hover-text-color: var(--ws-color-secondary-800);
+            --ws-surface-link-hover-text-color-opacity: 1;
+            --ws-surface-footer-link-text-color: var(--ws-color-text-black);
+            --ws-surface-footer-link-text-color-opacity: 1;
+            --ws-surface-footer-link-hover-text-color: var(--ws-color-primary-700);
+            --ws-surface-footer-link-hover-text-color-opacity: 1;
+            --ws-surface-highlighter-text-color: var(--ws-color-text-white);
+            --ws-surface-highlighter-background-color: var(--ws-color-secondary-800);
+            --ws-surface-mark-text-color: var(--ws-color-dark-800);
+            --ws-surface-mark-text-color-opacity: 1;
+            --ws-surface-form-input-border-color: var(--ws-color-light-400);
+            --ws-surface-form-input-border-color-opacity: 1;
+            --ws-surface-form-input-focus-border-color: var(--ws-color-info-500);
+            --ws-surface-form-input-focus-border-color-opacity: 1;
+            --ws-surface-form-input-disabled-border-color: var(--ws-color-light-400);
+            --ws-surface-form-input-disabled-border-color-opacity: 0.49;
+            --ws-surface-form-input-error-border-color: var(--ws-color-error-400);
+            --ws-surface-form-input-error-border-color-opacity: 1;
+            --ws-surface-form-validation-error-text-color: var(--ws-color-error-400);
+            --ws-surface-form-checkbox-icon-color: var(--ws-color-light-0);
+            --ws-surface-form-checkbox-icon-color-opacity: 1;
+            --ws-surface-form-checkbox-background-color: var(--ws-color-light-200);
+            --ws-surface-form-checkbox-background-color-opacity: 1;
+            --ws-surface-form-checkbox-border-color: var(--ws-color-light-400);
+            --ws-surface-form-checkbox-border-color-opacity: 1;
+            --ws-surface-form-checkbox-checked-background-color: var(--ws-color-secondary-900);
+            --ws-surface-form-checkbox-checked-background-color-opacity: 1;
+            --ws-surface-form-checkbox-checked-border-color: var(--ws-color-secondary-900);
+            --ws-surface-form-checkbox-checked-border-color-opacity: 1;
+            --ws-surface-form-checkbox-disabled-border-color-opacity: 0.49;
+            --ws-surface-form-checkbox-disabled-background-color: var(--ws-color-light-200);
+            --ws-surface-form-checkbox-disabled-background-color-opacity: 0.49;
+            --ws-surface-social-icon-color: var(--ws-color-secondary-900);
+            --ws-surface-social-icon-hover-color: var(--ws-color-secondary-800);
+            --ws-surface-social-icon-hover-color-opacity: 1;
+            --ws-surface-feature-icon-color: var(--ws-color-secondary-900);
+            --ws-surface-feature-link-color: var(--ws-color-secondary-900);
+            --ws-surface-feature-link-color-opacity: 1;
+            --ws-surface-feature-link-hover-color: var(--ws-color-secondary-800);
+            --ws-surface-feature-link-hover-color-opacity: 1;
+            --ws-surface-contact-icon-color: var(--ws-color-text-black);
+            --ws-surface-contact-icon-color-opacity: 0.61;
+            --ws-surface-m-table-with-buttons-thead-border-color: var(--ws-color-text-black);
+            --ws-surface-m-table-with-buttons-thead-border-color-opacity: 1;
+            --ws-surface-m-table-with-buttons-border-color: var(--ws-color-light-400);
+            --ws-surface-m-table-with-buttons-border-color-opacity: 1;
+            --ws-surface-tag-color: var(--ws-color-text-black);
+            --ws-surface-tag-color-opacity: 0.63;
+            --ws-surface-tag-background-color: var(--ws-color-light-300);
+            --ws-surface-tag-background-color-opacity: 1;
+            --ws-surface-counter-text-color: var(--ws-color-secondary-900);
+            --ws-surface-counter-text-opacity: 1;
+            --ws-surface-m-phone-color: var(--ws-color-secondary-900);
+            --ws-surface-m-nav-link-color: var(--ws-color-text-black);
+            --ws-surface-m-nav-link-color-opacity: 1;
+            --ws-surface-m-nav-link-hover-color: var(--ws-color-primary-700);
+            --ws-surface-m-nav-link-hover-color-opacity: 1;
+            --ws-surface-m-nav-link-active-color: var(--ws-color-primary-900);
+            --ws-surface-m-nav-link-active-color-opacity: 1;
+            --ws-surface-dropdown-arrow-color: var(--ws-color-text-black);
+            --ws-surface-dropdown-arrow-disabled-color: var(--ws-color-text-black);
+            --ws-surface-dropdown-list-background: var(--ws-color-light-0);
+            --ws-surface-dropdown-list-row-background: var(--ws-color-light-0);
+            --ws-surface-dropdown-list-row-hover-background: var(--ws-color-light-50);
+            --ws-surface-dropdown-list-row-selected-background: var(--ws-color-primary-800);
+            --ws-surface-dropdown-list-text-color: var(--ws-color-text-black);
+            --ws-surface-dropdown-list-text-hover-color: var(--ws-color-text-black);
+            --ws-surface-dropdown-list-text-selected-color: var(--ws-color-text-white);
+            --ws-surface-dropdown-text-color: var(--ws-color-text-black);
+            --ws-surface-dropdown-disabled-color: var(--ws-color-text-black);
+            --ws-surface-site-name-color: var(--ws-color-text-black);
+            --ws-surface-site-name-color-opacity: 1;
+            --ws-surface-heading-1-color: var(--ws-color-text-black);
+            --ws-surface-heading-1-color-opacity: 1;
+            --ws-surface-heading-2-color: var(--ws-color-text-black);
+            --ws-surface-heading-2-color-opacity: 1;
+            --ws-surface-heading-3-color: var(--ws-color-text-black);
+            --ws-surface-heading-3-color-opacity: 1;
+            --ws-surface-heading-4-color: var(--ws-color-text-black);
+            --ws-surface-heading-4-color-opacity: 1;
+            --ws-surface-heading-5-color: var(--ws-color-text-black);
+            --ws-surface-heading-5-color-opacity: 1;
+            --ws-surface-heading-6-color: var(--ws-color-text-black);
+            --ws-surface-heading-6-color-opacity: 0.61;
+            --ws-surface-paragraph-color: var(--ws-color-text-black);
+            --ws-surface-paragraph-color-opacity: 0.61;
+            --ws-surface-blockquote-color: var(--ws-color-text-black);
+            --ws-surface-blockquote-color-opacity: 1;
+            --ws-surface-decoration-background-color: var(--ws-color-primary-800);
+            --ws-surface-decoration-background-color-opacity: 1;
+            --ws-surface-decoration-text-color: var(--ws-color-text-white)
+          }
+
+          .ws-m-media-with-text-overlay ws-text,
+          [data-surface].ws-dark-0 {
+            --ws-surface-form-date-time-picker-wrapper-background-color: var(--ws-color-dark-700);
+            --ws-surface-form-date-time-picker-current-month-color: var(--ws-color-text-white);
+            --ws-surface-form-date-time-picker-line-color: var(--ws-color-dark-500);
+            --ws-surface-form-date-time-picker-current-day-color: var(--ws-color-text-white);
+            --ws-surface-form-date-time-picker-current-day-background: var(--ws-color-primary-800);
+            --ws-surface-form-date-time-picker-current-day-background-hover: var(--ws-color-dark-600);
+            --ws-surface-form-date-time-picker-icon-color: var(--ws-color-primary-800);
+            --ws-surface-form-date-time-picker-icon-hover-color: var(--ws-color-primary-700);
+            --ws-surface-form-date-time-picker-other-month-color: var(--ws-color-text-white);
+            --ws-surface-form-date-time-picker-other-month-color-opacity: 0.22;
+            --ws-surface-form-date-time-picker-weekday-color: var(--ws-color-text-white);
+            --ws-surface-form-date-time-picker-weekday-color-opacity: 0.46;
+            --ws-surface-form-time-picker-background-color: var(--ws-color-dark-700);
+            --ws-surface-form-time-picker-background-hover: var(--ws-color-dark-600);
+            --ws-surface-form-time-picker-color: var(--ws-color-text-white);
+            --ws-surface-form-time-picker-line-color: var(--ws-color-dark-500);
+            --ws-surface-background-color: var(--ws-color-dark-800);
+            --ws-surface-border-color: var(--ws-color-dark-300);
+            --ws-surface-focus-outline-color: var(--ws-color-info-900);
+            --ws-surface-focus-outline-color-opacity: 1;
+            --ws-surface-error-focus-outline-color: var(--ws-color-error-900);
+            --ws-surface-error-focus-outline-color-opacity: 0.83;
+            --ws-surface-primary-button-1-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-1-background-opacity: 1;
+            --ws-surface-primary-button-1-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-1-text-color-opacity: 1;
+            --ws-surface-primary-button-1-border-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-1-border-opacity: 1;
+            --ws-surface-primary-button-1-hover-background-color: var(--ws-color-primary-700);
+            --ws-surface-primary-button-1-hover-background-opacity: 1;
+            --ws-surface-primary-button-1-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-1-hover-text-color-opacity: 1;
+            --ws-surface-primary-button-1-hover-border-color: var(--ws-color-primary-700);
+            --ws-surface-primary-button-1-hover-border-opacity: 1;
+            --ws-surface-primary-button-1-active-background-color: var(--ws-color-primary-900);
+            --ws-surface-primary-button-1-active-background-opacity: 1;
+            --ws-surface-primary-button-1-active-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-1-active-text-color-opacity: 1;
+            --ws-surface-primary-button-1-active-border-color: var(--ws-color-primary-900);
+            --ws-surface-primary-button-1-active-border-opacity: 1;
+            --ws-surface-primary-button-1-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-1-disabled-background-opacity: 0.14;
+            --ws-surface-primary-button-1-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-1-disabled-text-color-opacity: 0.23;
+            --ws-surface-primary-button-1-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-1-disabled-border-opacity: 0.14;
+            --ws-surface-primary-button-2-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-background-opacity: 0;
+            --ws-surface-primary-button-2-icon-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-icon-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-icon-opacity: 1;
+            --ws-surface-primary-button-2-text-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-text-color-opacity: 1;
+            --ws-surface-primary-button-2-border-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-border-opacity: 0;
+            --ws-surface-primary-button-2-hover-background-color: 30, 83%, 50%;
+            --ws-surface-primary-button-2-hover-background-opacity: 0;
+            --ws-surface-primary-button-2-hover-icon-background-color: 30, 83%, 50%;
+            --ws-surface-primary-button-2-hover-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-hover-icon-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-hover-icon-opacity: 1;
+            --ws-surface-primary-button-2-hover-text-color: 30, 83%, 50%;
+            --ws-surface-primary-button-2-hover-text-color-opacity: 1;
+            --ws-surface-primary-button-2-hover-border-color: 30, 83%, 50%;
+            --ws-surface-primary-button-2-hover-border-opacity: 0;
+            --ws-surface-primary-button-2-active-background-color: 22, 87%, 45%;
+            --ws-surface-primary-button-2-active-background-opacity: 0;
+            --ws-surface-primary-button-2-active-icon-background-color: 22, 87%, 45%;
+            --ws-surface-primary-button-2-active-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-active-icon-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-active-icon-opacity: 1;
+            --ws-surface-primary-button-2-active-text-color: 22, 87%, 45%;
+            --ws-surface-primary-button-2-active-text-color-opacity: 1;
+            --ws-surface-primary-button-2-active-border-color: 22, 87%, 45%;
+            --ws-surface-primary-button-2-active-border-opacity: 0;
+            --ws-surface-primary-button-2-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-disabled-background-opacity: 0;
+            --ws-surface-primary-button-2-disabled-icon-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-disabled-icon-background-opacity: 0.14;
+            --ws-surface-primary-button-2-disabled-icon-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-disabled-icon-opacity: 0.22;
+            --ws-surface-primary-button-2-disabled-text-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-disabled-text-color-opacity: 0.44;
+            --ws-surface-primary-button-2-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-disabled-border-opacity: 0;
+            --ws-surface-secondary-button-1-background-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-1-background-opacity: 1;
+            --ws-surface-secondary-button-1-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-1-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-border-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-1-border-opacity: 1;
+            --ws-surface-secondary-button-1-hover-background-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-1-hover-background-opacity: 0.4;
+            --ws-surface-secondary-button-1-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-1-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-hover-border-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-1-hover-border-opacity: 0.4;
+            --ws-surface-secondary-button-1-active-background-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-1-active-background-opacity: 0.4;
+            --ws-surface-secondary-button-1-active-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-1-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-active-border-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-1-active-border-opacity: 0.4;
+            --ws-surface-secondary-button-1-disabled-background-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-1-disabled-background-opacity: 0.63;
+            --ws-surface-secondary-button-1-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-1-disabled-text-color-opacity: 0.22;
+            --ws-surface-secondary-button-1-disabled-border-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-1-disabled-border-opacity: 0.63;
+            --ws-surface-secondary-button-2-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-background-opacity: 0;
+            --ws-surface-secondary-button-2-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-2-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-border-opacity: 1;
+            --ws-surface-secondary-button-2-hover-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-hover-background-opacity: 1;
+            --ws-surface-secondary-button-2-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-2-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-hover-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-hover-border-opacity: 1;
+            --ws-surface-secondary-button-2-active-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-active-background-opacity: 1;
+            --ws-surface-secondary-button-2-active-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-2-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-active-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-active-border-opacity: 1;
+            --ws-surface-secondary-button-2-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-2-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-2-disabled-text-color-opacity: 0.22;
+            --ws-surface-secondary-button-2-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-disabled-border-opacity: 0.14;
+            --ws-surface-secondary-button-3-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-background-opacity: 0;
+            --ws-surface-secondary-button-3-text-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-border-opacity: 1;
+            --ws-surface-secondary-button-3-hover-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-hover-background-opacity: 1;
+            --ws-surface-secondary-button-3-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-3-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-hover-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-hover-border-opacity: 1;
+            --ws-surface-secondary-button-3-active-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-active-background-opacity: 1;
+            --ws-surface-secondary-button-3-active-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-3-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-active-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-active-border-opacity: 1;
+            --ws-surface-secondary-button-3-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-3-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-3-disabled-text-color-opacity: 0.22;
+            --ws-surface-secondary-button-3-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-disabled-border-opacity: 0.14;
+            --ws-surface-secondary-button-4-background-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-4-background-opacity: 0;
+            --ws-surface-secondary-button-4-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-4-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-border-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-4-border-opacity: 1;
+            --ws-surface-secondary-button-4-hover-background-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-4-hover-background-opacity: 1;
+            --ws-surface-secondary-button-4-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-4-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-hover-border-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-4-hover-border-opacity: 1;
+            --ws-surface-secondary-button-4-active-background-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-4-active-background-opacity: 1;
+            --ws-surface-secondary-button-4-active-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-4-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-active-border-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-4-active-border-opacity: 1;
+            --ws-surface-secondary-button-4-disabled-background-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-4-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-4-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-4-disabled-text-color-opacity: 0.22;
+            --ws-surface-secondary-button-4-disabled-border-color: var(--ws-color-dark-500);
+            --ws-surface-secondary-button-4-disabled-border-opacity: 0.63;
+            --ws-surface-secondary-button-5-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-5-background-opacity: 1;
+            --ws-surface-secondary-button-5-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-5-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-5-border-opacity: 1;
+            --ws-surface-secondary-button-5-hover-background-color: var(--ws-color-primary-700);
+            --ws-surface-secondary-button-5-hover-background-opacity: 1;
+            --ws-surface-secondary-button-5-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-5-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-hover-border-color: var(--ws-color-primary-700);
+            --ws-surface-secondary-button-5-hover-border-opacity: 1;
+            --ws-surface-secondary-button-5-active-background-color: var(--ws-color-primary-900);
+            --ws-surface-secondary-button-5-active-background-opacity: 1;
+            --ws-surface-secondary-button-5-active-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-5-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-active-border-color: var(--ws-color-primary-900);
+            --ws-surface-secondary-button-5-active-border-opacity: 1;
+            --ws-surface-secondary-button-5-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-5-disabled-background-opacity: 0.14;
+            --ws-surface-secondary-button-5-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-5-disabled-text-color-opacity: 0.23;
+            --ws-surface-secondary-button-5-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-5-disabled-border-opacity: 0.14;
+            --ws-surface-secondary-button-6-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-background-opacity: 0;
+            --ws-surface-secondary-button-6-text-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-border-opacity: 0;
+            --ws-surface-secondary-button-6-hover-background-color: 30, 83%, 50%;
+            --ws-surface-secondary-button-6-hover-background-opacity: 0;
+            --ws-surface-secondary-button-6-hover-text-color: 30, 83%, 50%;
+            --ws-surface-secondary-button-6-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-hover-border-color: 30, 83%, 50%;
+            --ws-surface-secondary-button-6-hover-border-opacity: 0;
+            --ws-surface-secondary-button-6-active-background-color: 22, 87%, 45%;
+            --ws-surface-secondary-button-6-active-background-opacity: 0;
+            --ws-surface-secondary-button-6-active-text-color: 22, 87%, 45%;
+            --ws-surface-secondary-button-6-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-active-border-color: 22, 87%, 45%;
+            --ws-surface-secondary-button-6-active-border-opacity: 0;
+            --ws-surface-secondary-button-6-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-6-disabled-text-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-disabled-text-color-opacity: 0.44;
+            --ws-surface-secondary-button-6-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-disabled-border-opacity: 0;
+            --ws-surface-text-color: var(--ws-color-text-white);
+            --ws-surface-text-high-emphasis-opacity: 1;
+            --ws-surface-text-medium-emphasis-opacity: 0.46;
+            --ws-surface-text-disabled-emphasis-opacity: 0.22;
+            --ws-surface-link-text-color: var(--ws-color-secondary-800);
+            --ws-surface-link-text-color-opacity: 1;
+            --ws-surface-link-hover-text-color: var(--ws-color-secondary-700);
+            --ws-surface-link-hover-text-color-opacity: 1;
+            --ws-surface-footer-link-text-color: var(--ws-color-text-white);
+            --ws-surface-footer-link-text-color-opacity: 1;
+            --ws-surface-footer-link-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-footer-link-hover-text-color-opacity: 0.46;
+            --ws-surface-highlighter-text-color: var(--ws-color-text-white);
+            --ws-surface-highlighter-background-color: var(--ws-color-secondary-800);
+            --ws-surface-mark-text-color: var(--ws-color-secondary-800);
+            --ws-surface-mark-text-color-opacity: 1;
+            --ws-surface-form-input-border-color: var(--ws-color-dark-300);
+            --ws-surface-form-input-border-color-opacity: 1;
+            --ws-surface-form-input-focus-border-color: var(--ws-color-info-700);
+            --ws-surface-form-input-focus-border-color-opacity: 1;
+            --ws-surface-form-input-disabled-border-color: var(--ws-color-dark-300);
+            --ws-surface-form-input-disabled-border-color-opacity: 0.53;
+            --ws-surface-form-input-error-border-color: var(--ws-color-error-600);
+            --ws-surface-form-input-error-border-color-opacity: 1;
+            --ws-surface-form-validation-error-text-color: var(--ws-color-error-400);
+            --ws-surface-form-checkbox-icon-color: var(--ws-color-light-0);
+            --ws-surface-form-checkbox-icon-color-opacity: 1;
+            --ws-surface-form-checkbox-background-color: var(--ws-color-dark-900);
+            --ws-surface-form-checkbox-background-color-opacity: 1;
+            --ws-surface-form-checkbox-border-color: var(--ws-color-dark-300);
+            --ws-surface-form-checkbox-border-color-opacity: 1;
+            --ws-surface-form-checkbox-checked-background-color: var(--ws-color-secondary-800);
+            --ws-surface-form-checkbox-checked-background-color-opacity: 1;
+            --ws-surface-form-checkbox-checked-border-color: var(--ws-color-secondary-800);
+            --ws-surface-form-checkbox-checked-border-color-opacity: 1;
+            --ws-surface-form-checkbox-disabled-border-color-opacity: 0.53;
+            --ws-surface-form-checkbox-disabled-background-color: var(--ws-color-dark-900);
+            --ws-surface-form-checkbox-disabled-background-color-opacity: 0.53;
+            --ws-surface-social-icon-color: var(--ws-color-secondary-800);
+            --ws-surface-social-icon-hover-color: var(--ws-color-secondary-700);
+            --ws-surface-social-icon-hover-color-opacity: 1;
+            --ws-surface-feature-icon-color: var(--ws-color-secondary-800);
+            --ws-surface-feature-link-color: var(--ws-color-secondary-800);
+            --ws-surface-feature-link-color-opacity: 1;
+            --ws-surface-feature-link-hover-color: var(--ws-color-secondary-700);
+            --ws-surface-feature-link-hover-color-opacity: 1;
+            --ws-surface-contact-icon-color: var(--ws-color-text-white);
+            --ws-surface-contact-icon-color-opacity: 0.46;
+            --ws-surface-m-table-with-buttons-thead-border-color: var(--ws-color-text-white);
+            --ws-surface-m-table-with-buttons-thead-border-color-opacity: 1;
+            --ws-surface-m-table-with-buttons-border-color: var(--ws-color-dark-400);
+            --ws-surface-m-table-with-buttons-border-color-opacity: 1;
+            --ws-surface-tag-color: var(--ws-color-text-white);
+            --ws-surface-tag-color-opacity: 0.51;
+            --ws-surface-tag-background-color: var(--ws-color-dark-500);
+            --ws-surface-tag-background-color-opacity: 1;
+            --ws-surface-counter-text-color: var(--ws-color-secondary-800);
+            --ws-surface-counter-text-opacity: 1;
+            --ws-surface-m-phone-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-color-opacity: 1;
+            --ws-surface-m-nav-link-hover-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-hover-color-opacity: 0.46;
+            --ws-surface-m-nav-link-active-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-active-color-opacity: 0.46;
+            --ws-surface-dropdown-arrow-color: var(--ws-color-text-white);
+            --ws-surface-dropdown-arrow-disabled-color: var(--ws-color-text-white);
+            --ws-surface-dropdown-list-background: var(--ws-color-dark-700);
+            --ws-surface-dropdown-list-row-background: var(--ws-color-dark-700);
+            --ws-surface-dropdown-list-row-hover-background: var(--ws-color-dark-600);
+            --ws-surface-dropdown-list-row-selected-background: var(--ws-color-primary-800);
+            --ws-surface-dropdown-list-text-color: var(--ws-color-text-white);
+            --ws-surface-dropdown-list-text-hover-color: var(--ws-color-text-white);
+            --ws-surface-dropdown-list-text-selected-color: var(--ws-color-text-white);
+            --ws-surface-dropdown-text-color: var(--ws-color-text-white);
+            --ws-surface-dropdown-disabled-color: var(--ws-color-text-white);
+            --ws-surface-site-name-color: var(--ws-color-text-white);
+            --ws-surface-site-name-color-opacity: 1;
+            --ws-surface-heading-1-color: var(--ws-color-text-white);
+            --ws-surface-heading-1-color-opacity: 1;
+            --ws-surface-heading-2-color: var(--ws-color-text-white);
+            --ws-surface-heading-2-color-opacity: 1;
+            --ws-surface-heading-3-color: var(--ws-color-text-white);
+            --ws-surface-heading-3-color-opacity: 1;
+            --ws-surface-heading-4-color: var(--ws-color-text-white);
+            --ws-surface-heading-4-color-opacity: 1;
+            --ws-surface-heading-5-color: var(--ws-color-text-white);
+            --ws-surface-heading-5-color-opacity: 1;
+            --ws-surface-heading-6-color: var(--ws-color-text-white);
+            --ws-surface-heading-6-color-opacity: 0.46;
+            --ws-surface-paragraph-color: var(--ws-color-text-white);
+            --ws-surface-paragraph-color-opacity: 0.46;
+            --ws-surface-blockquote-color: var(--ws-color-text-white);
+            --ws-surface-blockquote-color-opacity: 1;
+            --ws-surface-decoration-background-color: var(--ws-color-primary-800);
+            --ws-surface-decoration-background-color-opacity: 1;
+            --ws-surface-decoration-text-color: var(--ws-color-text-white)
+          }
+
+          [data-surface].ws-dark-1 {
+            --ws-surface-form-date-time-picker-wrapper-background-color: var(--ws-color-dark-600);
+            --ws-surface-form-date-time-picker-current-month-color: var(--ws-color-text-white);
+            --ws-surface-form-date-time-picker-line-color: var(--ws-color-dark-400);
+            --ws-surface-form-date-time-picker-current-day-color: var(--ws-color-text-white);
+            --ws-surface-form-date-time-picker-current-day-background: var(--ws-color-primary-800);
+            --ws-surface-form-date-time-picker-current-day-background-hover: var(--ws-color-dark-500);
+            --ws-surface-form-date-time-picker-icon-color: var(--ws-color-primary-800);
+            --ws-surface-form-date-time-picker-icon-hover-color: var(--ws-color-primary-700);
+            --ws-surface-form-date-time-picker-other-month-color: var(--ws-color-text-white);
+            --ws-surface-form-date-time-picker-other-month-color-opacity: 0.22;
+            --ws-surface-form-date-time-picker-weekday-color: var(--ws-color-text-white);
+            --ws-surface-form-date-time-picker-weekday-color-opacity: 0.46;
+            --ws-surface-form-time-picker-background-color: var(--ws-color-dark-600);
+            --ws-surface-form-time-picker-background-hover: var(--ws-color-dark-500);
+            --ws-surface-form-time-picker-color: var(--ws-color-text-white);
+            --ws-surface-form-time-picker-line-color: var(--ws-color-dark-400);
+            --ws-surface-background-color: var(--ws-color-dark-700);
+            --ws-surface-border-color: var(--ws-color-dark-200);
+            --ws-surface-focus-outline-color: var(--ws-color-info-900);
+            --ws-surface-focus-outline-color-opacity: 1;
+            --ws-surface-error-focus-outline-color: var(--ws-color-error-900);
+            --ws-surface-error-focus-outline-color-opacity: 0.86;
+            --ws-surface-primary-button-1-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-1-background-opacity: 1;
+            --ws-surface-primary-button-1-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-1-text-color-opacity: 1;
+            --ws-surface-primary-button-1-border-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-1-border-opacity: 1;
+            --ws-surface-primary-button-1-hover-background-color: var(--ws-color-primary-700);
+            --ws-surface-primary-button-1-hover-background-opacity: 1;
+            --ws-surface-primary-button-1-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-1-hover-text-color-opacity: 1;
+            --ws-surface-primary-button-1-hover-border-color: var(--ws-color-primary-700);
+            --ws-surface-primary-button-1-hover-border-opacity: 1;
+            --ws-surface-primary-button-1-active-background-color: var(--ws-color-primary-900);
+            --ws-surface-primary-button-1-active-background-opacity: 1;
+            --ws-surface-primary-button-1-active-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-1-active-text-color-opacity: 1;
+            --ws-surface-primary-button-1-active-border-color: var(--ws-color-primary-900);
+            --ws-surface-primary-button-1-active-border-opacity: 1;
+            --ws-surface-primary-button-1-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-1-disabled-background-opacity: 0.14;
+            --ws-surface-primary-button-1-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-1-disabled-text-color-opacity: 0.22;
+            --ws-surface-primary-button-1-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-1-disabled-border-opacity: 0.14;
+            --ws-surface-primary-button-2-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-background-opacity: 0;
+            --ws-surface-primary-button-2-icon-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-icon-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-icon-opacity: 1;
+            --ws-surface-primary-button-2-text-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-text-color-opacity: 1;
+            --ws-surface-primary-button-2-border-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-border-opacity: 0;
+            --ws-surface-primary-button-2-hover-background-color: 30, 83%, 50%;
+            --ws-surface-primary-button-2-hover-background-opacity: 0;
+            --ws-surface-primary-button-2-hover-icon-background-color: 30, 83%, 50%;
+            --ws-surface-primary-button-2-hover-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-hover-icon-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-hover-icon-opacity: 1;
+            --ws-surface-primary-button-2-hover-text-color: 30, 83%, 50%;
+            --ws-surface-primary-button-2-hover-text-color-opacity: 1;
+            --ws-surface-primary-button-2-hover-border-color: 30, 83%, 50%;
+            --ws-surface-primary-button-2-hover-border-opacity: 0;
+            --ws-surface-primary-button-2-active-background-color: 22, 87%, 45%;
+            --ws-surface-primary-button-2-active-background-opacity: 0;
+            --ws-surface-primary-button-2-active-icon-background-color: 22, 87%, 45%;
+            --ws-surface-primary-button-2-active-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-active-icon-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-active-icon-opacity: 1;
+            --ws-surface-primary-button-2-active-text-color: 22, 87%, 45%;
+            --ws-surface-primary-button-2-active-text-color-opacity: 1;
+            --ws-surface-primary-button-2-active-border-color: 22, 87%, 45%;
+            --ws-surface-primary-button-2-active-border-opacity: 0;
+            --ws-surface-primary-button-2-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-disabled-background-opacity: 0;
+            --ws-surface-primary-button-2-disabled-icon-background-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-disabled-icon-background-opacity: 0.14;
+            --ws-surface-primary-button-2-disabled-icon-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-disabled-icon-opacity: 0.22;
+            --ws-surface-primary-button-2-disabled-text-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-disabled-text-color-opacity: 0.45;
+            --ws-surface-primary-button-2-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-disabled-border-opacity: 0;
+            --ws-surface-secondary-button-1-background-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-1-background-opacity: 1;
+            --ws-surface-secondary-button-1-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-1-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-border-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-1-border-opacity: 1;
+            --ws-surface-secondary-button-1-hover-background-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-1-hover-background-opacity: 0.4;
+            --ws-surface-secondary-button-1-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-1-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-hover-border-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-1-hover-border-opacity: 0.4;
+            --ws-surface-secondary-button-1-active-background-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-1-active-background-opacity: 0.4;
+            --ws-surface-secondary-button-1-active-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-1-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-active-border-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-1-active-border-opacity: 0.4;
+            --ws-surface-secondary-button-1-disabled-background-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-1-disabled-background-opacity: 0.6;
+            --ws-surface-secondary-button-1-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-1-disabled-text-color-opacity: 0.22;
+            --ws-surface-secondary-button-1-disabled-border-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-1-disabled-border-opacity: 0.6;
+            --ws-surface-secondary-button-2-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-background-opacity: 0;
+            --ws-surface-secondary-button-2-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-2-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-border-opacity: 1;
+            --ws-surface-secondary-button-2-hover-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-hover-background-opacity: 1;
+            --ws-surface-secondary-button-2-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-2-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-hover-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-hover-border-opacity: 1;
+            --ws-surface-secondary-button-2-active-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-active-background-opacity: 1;
+            --ws-surface-secondary-button-2-active-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-2-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-active-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-active-border-opacity: 1;
+            --ws-surface-secondary-button-2-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-2-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-2-disabled-text-color-opacity: 0.22;
+            --ws-surface-secondary-button-2-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-2-disabled-border-opacity: 0.14;
+            --ws-surface-secondary-button-3-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-background-opacity: 0;
+            --ws-surface-secondary-button-3-text-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-border-opacity: 1;
+            --ws-surface-secondary-button-3-hover-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-hover-background-opacity: 1;
+            --ws-surface-secondary-button-3-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-3-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-hover-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-hover-border-opacity: 1;
+            --ws-surface-secondary-button-3-active-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-active-background-opacity: 1;
+            --ws-surface-secondary-button-3-active-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-3-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-active-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-active-border-opacity: 1;
+            --ws-surface-secondary-button-3-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-3-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-3-disabled-text-color-opacity: 0.22;
+            --ws-surface-secondary-button-3-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-3-disabled-border-opacity: 0.14;
+            --ws-surface-secondary-button-4-background-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-4-background-opacity: 0;
+            --ws-surface-secondary-button-4-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-4-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-border-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-4-border-opacity: 1;
+            --ws-surface-secondary-button-4-hover-background-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-4-hover-background-opacity: 1;
+            --ws-surface-secondary-button-4-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-4-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-hover-border-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-4-hover-border-opacity: 1;
+            --ws-surface-secondary-button-4-active-background-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-4-active-background-opacity: 1;
+            --ws-surface-secondary-button-4-active-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-4-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-active-border-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-4-active-border-opacity: 1;
+            --ws-surface-secondary-button-4-disabled-background-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-4-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-4-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-4-disabled-text-color-opacity: 0.22;
+            --ws-surface-secondary-button-4-disabled-border-color: var(--ws-color-dark-400);
+            --ws-surface-secondary-button-4-disabled-border-opacity: 0.58;
+            --ws-surface-secondary-button-5-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-5-background-opacity: 1;
+            --ws-surface-secondary-button-5-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-5-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-5-border-opacity: 1;
+            --ws-surface-secondary-button-5-hover-background-color: var(--ws-color-primary-700);
+            --ws-surface-secondary-button-5-hover-background-opacity: 1;
+            --ws-surface-secondary-button-5-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-5-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-hover-border-color: var(--ws-color-primary-700);
+            --ws-surface-secondary-button-5-hover-border-opacity: 1;
+            --ws-surface-secondary-button-5-active-background-color: var(--ws-color-primary-900);
+            --ws-surface-secondary-button-5-active-background-opacity: 1;
+            --ws-surface-secondary-button-5-active-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-5-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-active-border-color: var(--ws-color-primary-900);
+            --ws-surface-secondary-button-5-active-border-opacity: 1;
+            --ws-surface-secondary-button-5-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-5-disabled-background-opacity: 0.14;
+            --ws-surface-secondary-button-5-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-5-disabled-text-color-opacity: 0.22;
+            --ws-surface-secondary-button-5-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-5-disabled-border-opacity: 0.14;
+            --ws-surface-secondary-button-6-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-background-opacity: 0;
+            --ws-surface-secondary-button-6-text-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-border-opacity: 0;
+            --ws-surface-secondary-button-6-hover-background-color: 30, 83%, 50%;
+            --ws-surface-secondary-button-6-hover-background-opacity: 0;
+            --ws-surface-secondary-button-6-hover-text-color: 30, 83%, 50%;
+            --ws-surface-secondary-button-6-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-hover-border-color: 30, 83%, 50%;
+            --ws-surface-secondary-button-6-hover-border-opacity: 0;
+            --ws-surface-secondary-button-6-active-background-color: 22, 87%, 45%;
+            --ws-surface-secondary-button-6-active-background-opacity: 0;
+            --ws-surface-secondary-button-6-active-text-color: 22, 87%, 45%;
+            --ws-surface-secondary-button-6-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-active-border-color: 22, 87%, 45%;
+            --ws-surface-secondary-button-6-active-border-opacity: 0;
+            --ws-surface-secondary-button-6-disabled-background-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-6-disabled-text-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-disabled-text-color-opacity: 0.45;
+            --ws-surface-secondary-button-6-disabled-border-color: var(--ws-color-primary-800);
+            --ws-surface-secondary-button-6-disabled-border-opacity: 0;
+            --ws-surface-text-color: var(--ws-color-text-white);
+            --ws-surface-text-high-emphasis-opacity: 1;
+            --ws-surface-text-medium-emphasis-opacity: 0.47;
+            --ws-surface-text-disabled-emphasis-opacity: 0.22;
+            --ws-surface-link-text-color: var(--ws-color-secondary-800);
+            --ws-surface-link-text-color-opacity: 1;
+            --ws-surface-link-hover-text-color: var(--ws-color-secondary-700);
+            --ws-surface-link-hover-text-color-opacity: 1;
+            --ws-surface-footer-link-text-color: var(--ws-color-text-white);
+            --ws-surface-footer-link-text-color-opacity: 1;
+            --ws-surface-footer-link-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-footer-link-hover-text-color-opacity: 0.47;
+            --ws-surface-highlighter-text-color: var(--ws-color-text-white);
+            --ws-surface-highlighter-background-color: var(--ws-color-secondary-800);
+            --ws-surface-mark-text-color: var(--ws-color-secondary-800);
+            --ws-surface-mark-text-color-opacity: 1;
+            --ws-surface-form-input-border-color: var(--ws-color-dark-200);
+            --ws-surface-form-input-border-color-opacity: 1;
+            --ws-surface-form-input-focus-border-color: var(--ws-color-info-700);
+            --ws-surface-form-input-focus-border-color-opacity: 1;
+            --ws-surface-form-input-disabled-border-color: var(--ws-color-dark-200);
+            --ws-surface-form-input-disabled-border-color-opacity: 0.47;
+            --ws-surface-form-input-error-border-color: var(--ws-color-error-500);
+            --ws-surface-form-input-error-border-color-opacity: 1;
+            --ws-surface-form-validation-error-text-color: var(--ws-color-error-400);
+            --ws-surface-form-checkbox-icon-color: var(--ws-color-light-0);
+            --ws-surface-form-checkbox-icon-color-opacity: 1;
+            --ws-surface-form-checkbox-background-color: var(--ws-color-dark-800);
+            --ws-surface-form-checkbox-background-color-opacity: 1;
+            --ws-surface-form-checkbox-border-color: var(--ws-color-dark-200);
+            --ws-surface-form-checkbox-border-color-opacity: 1;
+            --ws-surface-form-checkbox-checked-background-color: var(--ws-color-secondary-800);
+            --ws-surface-form-checkbox-checked-background-color-opacity: 1;
+            --ws-surface-form-checkbox-checked-border-color: var(--ws-color-secondary-800);
+            --ws-surface-form-checkbox-checked-border-color-opacity: 1;
+            --ws-surface-form-checkbox-disabled-border-color-opacity: 0.47;
+            --ws-surface-form-checkbox-disabled-background-color: var(--ws-color-dark-800);
+            --ws-surface-form-checkbox-disabled-background-color-opacity: 0.47;
+            --ws-surface-social-icon-color: var(--ws-color-secondary-800);
+            --ws-surface-social-icon-hover-color: var(--ws-color-secondary-700);
+            --ws-surface-social-icon-hover-color-opacity: 1;
+            --ws-surface-feature-icon-color: var(--ws-color-secondary-800);
+            --ws-surface-feature-link-color: var(--ws-color-secondary-800);
+            --ws-surface-feature-link-color-opacity: 1;
+            --ws-surface-feature-link-hover-color: var(--ws-color-secondary-700);
+            --ws-surface-feature-link-hover-color-opacity: 1;
+            --ws-surface-contact-icon-color: var(--ws-color-text-white);
+            --ws-surface-contact-icon-color-opacity: 0.47;
+            --ws-surface-m-table-with-buttons-thead-border-color: var(--ws-color-text-white);
+            --ws-surface-m-table-with-buttons-thead-border-color-opacity: 1;
+            --ws-surface-m-table-with-buttons-border-color: var(--ws-color-dark-300);
+            --ws-surface-m-table-with-buttons-border-color-opacity: 1;
+            --ws-surface-tag-color: var(--ws-color-text-white);
+            --ws-surface-tag-color-opacity: 0.54;
+            --ws-surface-tag-background-color: var(--ws-color-dark-400);
+            --ws-surface-tag-background-color-opacity: 1;
+            --ws-surface-counter-text-color: var(--ws-color-secondary-800);
+            --ws-surface-counter-text-opacity: 1;
+            --ws-surface-m-phone-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-color-opacity: 1;
+            --ws-surface-m-nav-link-hover-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-hover-color-opacity: 0.47;
+            --ws-surface-m-nav-link-active-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-active-color-opacity: 0.47;
+            --ws-surface-dropdown-arrow-color: var(--ws-color-text-white);
+            --ws-surface-dropdown-arrow-disabled-color: var(--ws-color-text-white);
+            --ws-surface-dropdown-list-background: var(--ws-color-dark-600);
+            --ws-surface-dropdown-list-row-background: var(--ws-color-dark-600);
+            --ws-surface-dropdown-list-row-hover-background: var(--ws-color-dark-500);
+            --ws-surface-dropdown-list-row-selected-background: var(--ws-color-primary-800);
+            --ws-surface-dropdown-list-text-color: var(--ws-color-text-white);
+            --ws-surface-dropdown-list-text-hover-color: var(--ws-color-text-white);
+            --ws-surface-dropdown-list-text-selected-color: var(--ws-color-text-white);
+            --ws-surface-dropdown-text-color: var(--ws-color-text-white);
+            --ws-surface-dropdown-disabled-color: var(--ws-color-text-white);
+            --ws-surface-site-name-color: var(--ws-color-text-white);
+            --ws-surface-site-name-color-opacity: 1;
+            --ws-surface-heading-1-color: var(--ws-color-text-white);
+            --ws-surface-heading-1-color-opacity: 1;
+            --ws-surface-heading-2-color: var(--ws-color-text-white);
+            --ws-surface-heading-2-color-opacity: 1;
+            --ws-surface-heading-3-color: var(--ws-color-text-white);
+            --ws-surface-heading-3-color-opacity: 1;
+            --ws-surface-heading-4-color: var(--ws-color-text-white);
+            --ws-surface-heading-4-color-opacity: 1;
+            --ws-surface-heading-5-color: var(--ws-color-text-white);
+            --ws-surface-heading-5-color-opacity: 1;
+            --ws-surface-heading-6-color: var(--ws-color-text-white);
+            --ws-surface-heading-6-color-opacity: 0.47;
+            --ws-surface-paragraph-color: var(--ws-color-text-white);
+            --ws-surface-paragraph-color-opacity: 0.47;
+            --ws-surface-blockquote-color: var(--ws-color-text-white);
+            --ws-surface-blockquote-color-opacity: 1;
+            --ws-surface-decoration-background-color: var(--ws-color-primary-800);
+            --ws-surface-decoration-background-color-opacity: 1;
+            --ws-surface-decoration-text-color: var(--ws-color-text-white)
+          }
+
+          [data-surface].ws-dark-2 {
+            --ws-surface-background-color: var(--ws-color-dark-1000);
+            --ws-surface-focus-outline-color: var(--ws-color-info-900);
+            --ws-surface-error-focus-outline-color-opacity: 1;
+            --ws-surface-text-color: var(--ws-color-text-white);
+            --ws-surface-text-high-emphasis-opacity: 1;
+            --ws-surface-text-medium-emphasis-opacity: 0.46;
+            --ws-surface-social-icon-color: var(--ws-color-text-white);
+            --ws-surface-social-icon-hover-color: var(--ws-color-text-white);
+            --ws-surface-social-icon-hover-color-opacity: 0.4;
+            --ws-surface-contact-icon-color: var(--ws-color-secondary-800);
+            --ws-surface-contact-icon-color-opacity: 1;
+            --ws-surface-m-phone-color: var(--ws-color-text-white);
+            --ws-surface-site-name-color: var(--ws-color-text-white);
+            --ws-surface-site-name-color-opacity: 1;
+            --ws-surface-heading-1-color: var(--ws-color-text-white);
+            --ws-surface-heading-1-color-opacity: 1;
+            --ws-surface-heading-2-color: var(--ws-color-text-white);
+            --ws-surface-heading-2-color-opacity: 1;
+            --ws-surface-heading-3-color: var(--ws-color-text-white);
+            --ws-surface-heading-3-color-opacity: 1;
+            --ws-surface-heading-4-color: var(--ws-color-text-white);
+            --ws-surface-heading-4-color-opacity: 1;
+            --ws-surface-heading-5-color: var(--ws-color-text-white);
+            --ws-surface-heading-5-color-opacity: 1;
+            --ws-surface-heading-6-color: var(--ws-color-text-white);
+            --ws-surface-heading-6-color-opacity: 0.46;
+            --ws-surface-paragraph-color: var(--ws-color-text-white);
+            --ws-surface-paragraph-color-opacity: 0.46;
+            --ws-surface-blockquote-color: var(--ws-color-text-white);
+            --ws-surface-blockquote-color-opacity: 1;
+            --ws-surface-decoration-background-color: var(--ws-color-primary-800);
+            --ws-surface-decoration-background-color-opacity: 1;
+            --ws-surface-decoration-text-color: var(--ws-color-text-white)
+          }
+
+          [data-surface].ws-primary-0 {
+            --ws-surface-background-color: var(--ws-color-primary-800);
+            --ws-surface-focus-outline-color: var(--ws-color-info-900);
+            --ws-surface-focus-outline-color-opacity: 0.64;
+            --ws-surface-primary-button-1-background-color: var(--ws-color-light-0);
+            --ws-surface-primary-button-1-background-opacity: 1;
+            --ws-surface-primary-button-1-text-color: var(--ws-color-text-black);
+            --ws-surface-primary-button-1-text-color-opacity: 1;
+            --ws-surface-primary-button-1-border-color: var(--ws-color-light-0);
+            --ws-surface-primary-button-1-border-opacity: 1;
+            --ws-surface-primary-button-1-hover-background-color: var(--ws-color-primary-50);
+            --ws-surface-primary-button-1-hover-background-opacity: 1;
+            --ws-surface-primary-button-1-hover-text-color: var(--ws-color-text-black);
+            --ws-surface-primary-button-1-hover-text-color-opacity: 1;
+            --ws-surface-primary-button-1-hover-border-color: var(--ws-color-primary-50);
+            --ws-surface-primary-button-1-hover-border-opacity: 1;
+            --ws-surface-primary-button-1-active-background-color: var(--ws-color-primary-50);
+            --ws-surface-primary-button-1-active-background-opacity: 1;
+            --ws-surface-primary-button-1-active-text-color: var(--ws-color-text-black);
+            --ws-surface-primary-button-1-active-text-color-opacity: 1;
+            --ws-surface-primary-button-1-active-border-color: var(--ws-color-primary-50);
+            --ws-surface-primary-button-1-active-border-opacity: 1;
+            --ws-surface-primary-button-1-disabled-background-color: var(--ws-color-light-0);
+            --ws-surface-primary-button-1-disabled-background-opacity: 0.16;
+            --ws-surface-primary-button-1-disabled-text-color: var(--ws-color-text-black);
+            --ws-surface-primary-button-1-disabled-text-color-opacity: 0.41;
+            --ws-surface-primary-button-1-disabled-border-color: var(--ws-color-light-0);
+            --ws-surface-primary-button-1-disabled-border-opacity: 0.16;
+            --ws-surface-primary-button-2-background-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-background-opacity: 0;
+            --ws-surface-primary-button-2-icon-background-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-icon-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-icon-opacity: 1;
+            --ws-surface-primary-button-2-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-text-color-opacity: 1;
+            --ws-surface-primary-button-2-border-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-border-opacity: 0;
+            --ws-surface-primary-button-2-hover-background-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-hover-background-opacity: 0;
+            --ws-surface-primary-button-2-hover-icon-background-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-hover-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-hover-icon-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-hover-icon-opacity: 1;
+            --ws-surface-primary-button-2-hover-text-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-hover-text-color-opacity: 1;
+            --ws-surface-primary-button-2-hover-border-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-hover-border-opacity: 0;
+            --ws-surface-primary-button-2-active-background-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-active-background-opacity: 0;
+            --ws-surface-primary-button-2-active-icon-background-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-active-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-active-icon-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-active-icon-opacity: 1;
+            --ws-surface-primary-button-2-active-text-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-active-text-color-opacity: 1;
+            --ws-surface-primary-button-2-active-border-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-active-border-opacity: 0;
+            --ws-surface-primary-button-2-disabled-background-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-disabled-background-opacity: 0;
+            --ws-surface-primary-button-2-disabled-icon-background-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-disabled-icon-background-opacity: 0.16;
+            --ws-surface-primary-button-2-disabled-icon-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-disabled-icon-opacity: 0.24;
+            --ws-surface-primary-button-2-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-disabled-text-color-opacity: 0.59;
+            --ws-surface-primary-button-2-disabled-border-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-disabled-border-opacity: 0;
+            --ws-surface-secondary-button-1-background-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-1-background-opacity: 1;
+            --ws-surface-secondary-button-1-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-1-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-border-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-1-border-opacity: 1;
+            --ws-surface-secondary-button-1-hover-background-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-1-hover-background-opacity: 0.4;
+            --ws-surface-secondary-button-1-hover-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-1-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-hover-border-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-1-hover-border-opacity: 0.4;
+            --ws-surface-secondary-button-1-active-background-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-1-active-background-opacity: 0.4;
+            --ws-surface-secondary-button-1-active-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-1-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-active-border-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-1-active-border-opacity: 0.4;
+            --ws-surface-secondary-button-1-disabled-background-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-1-disabled-background-opacity: 0.71;
+            --ws-surface-secondary-button-1-disabled-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-1-disabled-text-color-opacity: 0.41;
+            --ws-surface-secondary-button-1-disabled-border-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-1-disabled-border-opacity: 0.71;
+            --ws-surface-secondary-button-2-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-background-opacity: 0;
+            --ws-surface-secondary-button-2-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-2-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-border-opacity: 1;
+            --ws-surface-secondary-button-2-hover-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-hover-background-opacity: 1;
+            --ws-surface-secondary-button-2-hover-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-2-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-hover-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-hover-border-opacity: 1;
+            --ws-surface-secondary-button-2-active-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-active-background-opacity: 1;
+            --ws-surface-secondary-button-2-active-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-2-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-active-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-active-border-opacity: 1;
+            --ws-surface-secondary-button-2-disabled-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-2-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-2-disabled-text-color-opacity: 0.58;
+            --ws-surface-secondary-button-2-disabled-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-disabled-border-opacity: 0.17;
+            --ws-surface-secondary-button-3-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-background-opacity: 0;
+            --ws-surface-secondary-button-3-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-3-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-border-opacity: 1;
+            --ws-surface-secondary-button-3-hover-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-hover-background-opacity: 1;
+            --ws-surface-secondary-button-3-hover-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-3-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-hover-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-hover-border-opacity: 1;
+            --ws-surface-secondary-button-3-active-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-active-background-opacity: 1;
+            --ws-surface-secondary-button-3-active-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-3-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-active-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-active-border-opacity: 1;
+            --ws-surface-secondary-button-3-disabled-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-3-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-3-disabled-text-color-opacity: 0.58;
+            --ws-surface-secondary-button-3-disabled-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-disabled-border-opacity: 0.17;
+            --ws-surface-secondary-button-4-background-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-4-background-opacity: 0;
+            --ws-surface-secondary-button-4-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-4-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-border-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-4-border-opacity: 1;
+            --ws-surface-secondary-button-4-hover-background-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-4-hover-background-opacity: 1;
+            --ws-surface-secondary-button-4-hover-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-4-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-hover-border-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-4-hover-border-opacity: 1;
+            --ws-surface-secondary-button-4-active-background-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-4-active-background-opacity: 1;
+            --ws-surface-secondary-button-4-active-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-4-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-active-border-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-4-active-border-opacity: 1;
+            --ws-surface-secondary-button-4-disabled-background-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-4-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-4-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-4-disabled-text-color-opacity: 0.58;
+            --ws-surface-secondary-button-4-disabled-border-color: var(--ws-color-primary-600);
+            --ws-surface-secondary-button-4-disabled-border-opacity: 0.71;
+            --ws-surface-secondary-button-5-background-color: var(--ws-color-primary-400);
+            --ws-surface-secondary-button-5-background-opacity: 1;
+            --ws-surface-secondary-button-5-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-5-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-border-color: var(--ws-color-primary-400);
+            --ws-surface-secondary-button-5-border-opacity: 1;
+            --ws-surface-secondary-button-5-hover-background-color: var(--ws-color-primary-300);
+            --ws-surface-secondary-button-5-hover-background-opacity: 1;
+            --ws-surface-secondary-button-5-hover-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-5-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-hover-border-color: var(--ws-color-primary-300);
+            --ws-surface-secondary-button-5-hover-border-opacity: 1;
+            --ws-surface-secondary-button-5-active-background-color: var(--ws-color-primary-500);
+            --ws-surface-secondary-button-5-active-background-opacity: 1;
+            --ws-surface-secondary-button-5-active-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-5-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-active-border-color: var(--ws-color-primary-500);
+            --ws-surface-secondary-button-5-active-border-opacity: 1;
+            --ws-surface-secondary-button-5-disabled-background-color: var(--ws-color-primary-400);
+            --ws-surface-secondary-button-5-disabled-background-opacity: 0.7;
+            --ws-surface-secondary-button-5-disabled-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-5-disabled-text-color-opacity: 0.41;
+            --ws-surface-secondary-button-5-disabled-border-color: var(--ws-color-primary-400);
+            --ws-surface-secondary-button-5-disabled-border-opacity: 0.7;
+            --ws-surface-secondary-button-6-background-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-6-background-opacity: 0;
+            --ws-surface-secondary-button-6-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-6-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-border-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-6-border-opacity: 0;
+            --ws-surface-secondary-button-6-hover-background-color: 38, 88%, 94%;
+            --ws-surface-secondary-button-6-hover-background-opacity: 0;
+            --ws-surface-secondary-button-6-hover-text-color: 38, 88%, 94%;
+            --ws-surface-secondary-button-6-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-hover-border-color: 38, 88%, 94%;
+            --ws-surface-secondary-button-6-hover-border-opacity: 0;
+            --ws-surface-secondary-button-6-active-background-color: 38, 88%, 94%;
+            --ws-surface-secondary-button-6-active-background-opacity: 0;
+            --ws-surface-secondary-button-6-active-text-color: 38, 88%, 94%;
+            --ws-surface-secondary-button-6-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-active-border-color: 38, 88%, 94%;
+            --ws-surface-secondary-button-6-active-border-opacity: 0;
+            --ws-surface-secondary-button-6-disabled-background-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-6-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-6-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-6-disabled-text-color-opacity: 0.59;
+            --ws-surface-secondary-button-6-disabled-border-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-6-disabled-border-opacity: 0;
+            --ws-surface-text-color: var(--ws-color-text-white);
+            --ws-surface-text-high-emphasis-opacity: 1;
+            --ws-surface-text-medium-emphasis-opacity: 1;
+            --ws-surface-text-disabled-emphasis-opacity: 0.58;
+            --ws-surface-link-text-color: var(--ws-color-text-white);
+            --ws-surface-link-text-color-opacity: 1;
+            --ws-surface-link-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-link-hover-text-color-opacity: 0.4;
+            --ws-surface-feature-link-color: var(--ws-color-text-white);
+            --ws-surface-feature-link-color-opacity: 1;
+            --ws-surface-feature-link-hover-color: var(--ws-color-text-white);
+            --ws-surface-feature-link-hover-color-opacity: 0.4;
+            --ws-surface-highlighter-text-color: var(--ws-color-text-white);
+            --ws-surface-highlighter-background-color: var(--ws-color-secondary-400);
+            --ws-surface-social-icon-color: var(--ws-color-text-white);
+            --ws-surface-social-icon-hover-color: var(--ws-color-text-white);
+            --ws-surface-social-icon-hover-color-opacity: 0.4;
+            --ws-surface-m-phone-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-color-opacity: 1;
+            --ws-surface-m-nav-link-hover-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-hover-color-opacity: 0.4;
+            --ws-surface-m-nav-link-active-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-active-color-opacity: 0.4;
+            --ws-surface-site-name-color: var(--ws-color-text-white);
+            --ws-surface-site-name-color-opacity: 1;
+            --ws-surface-heading-1-color: var(--ws-color-text-white);
+            --ws-surface-heading-1-color-opacity: 1;
+            --ws-surface-heading-2-color: var(--ws-color-text-white);
+            --ws-surface-heading-2-color-opacity: 1;
+            --ws-surface-heading-3-color: var(--ws-color-text-white);
+            --ws-surface-heading-3-color-opacity: 1;
+            --ws-surface-heading-4-color: var(--ws-color-text-white);
+            --ws-surface-heading-4-color-opacity: 1;
+            --ws-surface-heading-5-color: var(--ws-color-text-white);
+            --ws-surface-heading-5-color-opacity: 1;
+            --ws-surface-heading-6-color: var(--ws-color-text-white);
+            --ws-surface-heading-6-color-opacity: 1;
+            --ws-surface-paragraph-color: var(--ws-color-text-white);
+            --ws-surface-paragraph-color-opacity: 1;
+            --ws-surface-blockquote-color: var(--ws-color-text-white);
+            --ws-surface-blockquote-color-opacity: 1;
+            --ws-surface-decoration-background-color: var(--ws-color-primary-400);
+            --ws-surface-decoration-background-color-opacity: 1;
+            --ws-surface-decoration-text-color: var(--ws-color-text-black)
+          }
+
+          .ws-m-testimonial ws-media-container:before,
+          .ws-m-testimonial ws-media-container:after,
+          .ws-m-schedule table thead,
+          [data-surface].ws-secondary-0 {
+            --ws-surface-background-color: var(--ws-color-secondary-800);
+            --ws-surface-focus-outline-color: var(--ws-color-info-900);
+            --ws-surface-focus-outline-color-opacity: 0.64;
+            --ws-surface-primary-button-1-background-color: var(--ws-color-light-0);
+            --ws-surface-primary-button-1-background-opacity: 1;
+            --ws-surface-primary-button-1-text-color: var(--ws-color-text-black);
+            --ws-surface-primary-button-1-text-color-opacity: 1;
+            --ws-surface-primary-button-1-border-color: var(--ws-color-light-0);
+            --ws-surface-primary-button-1-border-opacity: 1;
+            --ws-surface-primary-button-1-hover-background-color: var(--ws-color-primary-50);
+            --ws-surface-primary-button-1-hover-background-opacity: 1;
+            --ws-surface-primary-button-1-hover-text-color: var(--ws-color-text-black);
+            --ws-surface-primary-button-1-hover-text-color-opacity: 1;
+            --ws-surface-primary-button-1-hover-border-color: var(--ws-color-primary-50);
+            --ws-surface-primary-button-1-hover-border-opacity: 1;
+            --ws-surface-primary-button-1-active-background-color: var(--ws-color-primary-50);
+            --ws-surface-primary-button-1-active-background-opacity: 1;
+            --ws-surface-primary-button-1-active-text-color: var(--ws-color-text-black);
+            --ws-surface-primary-button-1-active-text-color-opacity: 1;
+            --ws-surface-primary-button-1-active-border-color: var(--ws-color-primary-50);
+            --ws-surface-primary-button-1-active-border-opacity: 1;
+            --ws-surface-primary-button-1-disabled-background-color: var(--ws-color-light-0);
+            --ws-surface-primary-button-1-disabled-background-opacity: 0.16;
+            --ws-surface-primary-button-1-disabled-text-color: var(--ws-color-text-black);
+            --ws-surface-primary-button-1-disabled-text-color-opacity: 0.41;
+            --ws-surface-primary-button-1-disabled-border-color: var(--ws-color-light-0);
+            --ws-surface-primary-button-1-disabled-border-opacity: 0.16;
+            --ws-surface-primary-button-2-background-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-background-opacity: 0;
+            --ws-surface-primary-button-2-icon-background-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-icon-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-icon-opacity: 1;
+            --ws-surface-primary-button-2-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-text-color-opacity: 1;
+            --ws-surface-primary-button-2-border-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-border-opacity: 0;
+            --ws-surface-primary-button-2-hover-background-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-hover-background-opacity: 0;
+            --ws-surface-primary-button-2-hover-icon-background-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-hover-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-hover-icon-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-hover-icon-opacity: 1;
+            --ws-surface-primary-button-2-hover-text-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-hover-text-color-opacity: 1;
+            --ws-surface-primary-button-2-hover-border-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-hover-border-opacity: 0;
+            --ws-surface-primary-button-2-active-background-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-active-background-opacity: 0;
+            --ws-surface-primary-button-2-active-icon-background-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-active-icon-background-opacity: 1;
+            --ws-surface-primary-button-2-active-icon-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-active-icon-opacity: 1;
+            --ws-surface-primary-button-2-active-text-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-active-text-color-opacity: 1;
+            --ws-surface-primary-button-2-active-border-color: 38, 88%, 94%;
+            --ws-surface-primary-button-2-active-border-opacity: 0;
+            --ws-surface-primary-button-2-disabled-background-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-disabled-background-opacity: 0;
+            --ws-surface-primary-button-2-disabled-icon-background-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-disabled-icon-background-opacity: 0.16;
+            --ws-surface-primary-button-2-disabled-icon-color: var(--ws-color-primary-800);
+            --ws-surface-primary-button-2-disabled-icon-opacity: 0.24;
+            --ws-surface-primary-button-2-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-disabled-text-color-opacity: 0.59;
+            --ws-surface-primary-button-2-disabled-border-color: var(--ws-color-text-white);
+            --ws-surface-primary-button-2-disabled-border-opacity: 0;
+            --ws-surface-secondary-button-1-background-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-1-background-opacity: 1;
+            --ws-surface-secondary-button-1-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-1-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-border-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-1-border-opacity: 1;
+            --ws-surface-secondary-button-1-hover-background-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-1-hover-background-opacity: 0.4;
+            --ws-surface-secondary-button-1-hover-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-1-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-hover-border-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-1-hover-border-opacity: 0.4;
+            --ws-surface-secondary-button-1-active-background-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-1-active-background-opacity: 0.4;
+            --ws-surface-secondary-button-1-active-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-1-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-1-active-border-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-1-active-border-opacity: 0.4;
+            --ws-surface-secondary-button-1-disabled-background-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-1-disabled-background-opacity: 0.71;
+            --ws-surface-secondary-button-1-disabled-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-1-disabled-text-color-opacity: 0.41;
+            --ws-surface-secondary-button-1-disabled-border-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-1-disabled-border-opacity: 0.71;
+            --ws-surface-secondary-button-2-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-background-opacity: 0;
+            --ws-surface-secondary-button-2-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-2-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-border-opacity: 1;
+            --ws-surface-secondary-button-2-hover-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-hover-background-opacity: 1;
+            --ws-surface-secondary-button-2-hover-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-2-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-hover-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-hover-border-opacity: 1;
+            --ws-surface-secondary-button-2-active-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-active-background-opacity: 1;
+            --ws-surface-secondary-button-2-active-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-2-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-2-active-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-active-border-opacity: 1;
+            --ws-surface-secondary-button-2-disabled-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-2-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-2-disabled-text-color-opacity: 0.58;
+            --ws-surface-secondary-button-2-disabled-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-2-disabled-border-opacity: 0.16;
+            --ws-surface-secondary-button-3-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-background-opacity: 0;
+            --ws-surface-secondary-button-3-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-3-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-border-opacity: 1;
+            --ws-surface-secondary-button-3-hover-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-hover-background-opacity: 1;
+            --ws-surface-secondary-button-3-hover-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-3-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-hover-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-hover-border-opacity: 1;
+            --ws-surface-secondary-button-3-active-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-active-background-opacity: 1;
+            --ws-surface-secondary-button-3-active-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-3-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-3-active-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-active-border-opacity: 1;
+            --ws-surface-secondary-button-3-disabled-background-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-3-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-3-disabled-text-color-opacity: 0.58;
+            --ws-surface-secondary-button-3-disabled-border-color: var(--ws-color-light-0);
+            --ws-surface-secondary-button-3-disabled-border-opacity: 0.16;
+            --ws-surface-secondary-button-4-background-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-4-background-opacity: 0;
+            --ws-surface-secondary-button-4-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-4-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-border-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-4-border-opacity: 1;
+            --ws-surface-secondary-button-4-hover-background-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-4-hover-background-opacity: 1;
+            --ws-surface-secondary-button-4-hover-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-4-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-hover-border-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-4-hover-border-opacity: 1;
+            --ws-surface-secondary-button-4-active-background-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-4-active-background-opacity: 1;
+            --ws-surface-secondary-button-4-active-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-4-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-4-active-border-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-4-active-border-opacity: 1;
+            --ws-surface-secondary-button-4-disabled-background-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-4-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-4-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-4-disabled-text-color-opacity: 0.58;
+            --ws-surface-secondary-button-4-disabled-border-color: var(--ws-color-secondary-600);
+            --ws-surface-secondary-button-4-disabled-border-opacity: 0.71;
+            --ws-surface-secondary-button-5-background-color: var(--ws-color-secondary-400);
+            --ws-surface-secondary-button-5-background-opacity: 1;
+            --ws-surface-secondary-button-5-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-5-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-border-color: var(--ws-color-secondary-400);
+            --ws-surface-secondary-button-5-border-opacity: 1;
+            --ws-surface-secondary-button-5-hover-background-color: var(--ws-color-secondary-300);
+            --ws-surface-secondary-button-5-hover-background-opacity: 1;
+            --ws-surface-secondary-button-5-hover-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-5-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-hover-border-color: var(--ws-color-secondary-300);
+            --ws-surface-secondary-button-5-hover-border-opacity: 1;
+            --ws-surface-secondary-button-5-active-background-color: var(--ws-color-secondary-500);
+            --ws-surface-secondary-button-5-active-background-opacity: 1;
+            --ws-surface-secondary-button-5-active-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-5-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-5-active-border-color: var(--ws-color-secondary-500);
+            --ws-surface-secondary-button-5-active-border-opacity: 1;
+            --ws-surface-secondary-button-5-disabled-background-color: var(--ws-color-secondary-400);
+            --ws-surface-secondary-button-5-disabled-background-opacity: 0.7;
+            --ws-surface-secondary-button-5-disabled-text-color: var(--ws-color-text-black);
+            --ws-surface-secondary-button-5-disabled-text-color-opacity: 0.41;
+            --ws-surface-secondary-button-5-disabled-border-color: var(--ws-color-secondary-400);
+            --ws-surface-secondary-button-5-disabled-border-opacity: 0.7;
+            --ws-surface-secondary-button-6-background-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-6-background-opacity: 0;
+            --ws-surface-secondary-button-6-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-6-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-border-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-6-border-opacity: 0;
+            --ws-surface-secondary-button-6-hover-background-color: 38, 88%, 94%;
+            --ws-surface-secondary-button-6-hover-background-opacity: 0;
+            --ws-surface-secondary-button-6-hover-text-color: 38, 88%, 94%;
+            --ws-surface-secondary-button-6-hover-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-hover-border-color: 38, 88%, 94%;
+            --ws-surface-secondary-button-6-hover-border-opacity: 0;
+            --ws-surface-secondary-button-6-active-background-color: 38, 88%, 94%;
+            --ws-surface-secondary-button-6-active-background-opacity: 0;
+            --ws-surface-secondary-button-6-active-text-color: 38, 88%, 94%;
+            --ws-surface-secondary-button-6-active-text-color-opacity: 1;
+            --ws-surface-secondary-button-6-active-border-color: 38, 88%, 94%;
+            --ws-surface-secondary-button-6-active-border-opacity: 0;
+            --ws-surface-secondary-button-6-disabled-background-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-6-disabled-background-opacity: 0;
+            --ws-surface-secondary-button-6-disabled-text-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-6-disabled-text-color-opacity: 0.59;
+            --ws-surface-secondary-button-6-disabled-border-color: var(--ws-color-text-white);
+            --ws-surface-secondary-button-6-disabled-border-opacity: 0;
+            --ws-surface-text-color: var(--ws-color-text-white);
+            --ws-surface-text-high-emphasis-opacity: 1;
+            --ws-surface-text-medium-emphasis-opacity: 1;
+            --ws-surface-text-disabled-emphasis-opacity: 0.58;
+            --ws-surface-link-text-color: var(--ws-color-text-white);
+            --ws-surface-link-text-color-opacity: 1;
+            --ws-surface-link-hover-text-color: var(--ws-color-text-white);
+            --ws-surface-link-hover-text-color-opacity: 0.4;
+            --ws-surface-highlighter-text-color: var(--ws-color-text-white);
+            --ws-surface-highlighter-background-color: var(--ws-color-secondary-400);
+            --ws-surface-social-icon-color: var(--ws-color-text-white);
+            --ws-surface-social-icon-hover-color: var(--ws-color-text-white);
+            --ws-surface-social-icon-hover-color-opacity: 0.4;
+            --ws-surface-feature-icon-color: var(--ws-color-text-white);
+            --ws-surface-feature-link-color: var(--ws-color-text-white);
+            --ws-surface-feature-link-color-opacity: 1;
+            --ws-surface-feature-link-hover-color: var(--ws-color-text-white);
+            --ws-surface-feature-link-hover-color-opacity: 0.4;
+            --ws-surface-contact-icon-color: var(--ws-color-text-white);
+            --ws-surface-contact-icon-color-opacity: 1;
+            --ws-surface-m-phone-color: var(--ws-color-text-white);
+            --ws-surface-quote-icon-color: var(--ws-color-text-white);
+            --ws-surface-quote-icon-color-opacity: 1;
+            --ws-surface-m-nav-link-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-color-opacity: 1;
+            --ws-surface-m-nav-link-hover-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-hover-color-opacity: 0.4;
+            --ws-surface-m-nav-link-active-color: var(--ws-color-text-white);
+            --ws-surface-m-nav-link-active-color-opacity: 0.4;
+            --ws-surface-site-name-color: var(--ws-color-text-white);
+            --ws-surface-site-name-color-opacity: 1;
+            --ws-surface-heading-1-color: var(--ws-color-text-white);
+            --ws-surface-heading-1-color-opacity: 1;
+            --ws-surface-heading-2-color: var(--ws-color-text-white);
+            --ws-surface-heading-2-color-opacity: 1;
+            --ws-surface-heading-3-color: var(--ws-color-text-white);
+            --ws-surface-heading-3-color-opacity: 1;
+            --ws-surface-heading-4-color: var(--ws-color-text-white);
+            --ws-surface-heading-4-color-opacity: 1;
+            --ws-surface-heading-5-color: var(--ws-color-text-white);
+            --ws-surface-heading-5-color-opacity: 1;
+            --ws-surface-heading-6-color: var(--ws-color-text-white);
+            --ws-surface-heading-6-color-opacity: 1;
+            --ws-surface-paragraph-color: var(--ws-color-text-white);
+            --ws-surface-paragraph-color-opacity: 1;
+            --ws-surface-blockquote-color: var(--ws-color-text-white);
+            --ws-surface-blockquote-color-opacity: 1;
+            --ws-surface-decoration-background-color: var(--ws-color-secondary-400);
+            --ws-surface-decoration-background-color-opacity: 1;
+            --ws-surface-decoration-text-color: var(--ws-color-text-black)
+          }
+
+:root {
+            --first-font-family: 'Poppins';
+            --second-font-family: 'Montserrat';
+            --ws-primary-font-family: var(--first-font-family), var(--font-sans-serif-fallback);
+            --ws-secondary-font-family: var(--second-font-family), var(--font-sans-serif-fallback);
+            --ws-heading-1-font-family: var(--ws-secondary-font-family);
+            --ws-heading-1-font-size: 56;
+            --ws-heading-1-line-height: 1.286em;
+            --ws-heading-1-font-weight: 700;
+            --ws-heading-1-font-weight-emulation: none;
+            --ws-heading-1-font-style: normal;
+            --ws-heading-1-text-transform: uppercase;
+            --ws-heading-1-letter-spacing: normal;
+            --ws-heading-1-text-decoration: none;
+            --ws-heading-2-font-family: var(--ws-secondary-font-family);
+            --ws-heading-2-font-size: 40;
+            --ws-heading-2-line-height: 1.4em;
+            --ws-heading-2-font-weight: 700;
+            --ws-heading-2-font-weight-emulation: none;
+            --ws-heading-2-font-style: normal;
+            --ws-heading-2-text-transform: uppercase;
+            --ws-heading-2-letter-spacing: normal;
+            --ws-heading-2-text-decoration: none;
+            --ws-heading-3-font-family: var(--ws-primary-font-family);
+            --ws-heading-3-font-size: 28;
+            --ws-heading-3-line-height: 1.571em;
+            --ws-heading-3-font-weight: 300;
+            --ws-heading-3-font-weight-emulation: none;
+            --ws-heading-3-font-style: normal;
+            --ws-heading-3-text-transform: none;
+            --ws-heading-3-letter-spacing: normal;
+            --ws-heading-3-text-decoration: none;
+            --ws-heading-4-font-family: var(--ws-secondary-font-family);
+            --ws-heading-4-font-size: 22;
+            --ws-heading-4-line-height: 1.636em;
+            --ws-heading-4-font-weight: 600;
+            --ws-heading-4-font-weight-emulation: none;
+            --ws-heading-4-font-style: normal;
+            --ws-heading-4-text-transform: none;
+            --ws-heading-4-letter-spacing: normal;
+            --ws-heading-4-text-decoration: none;
+            --ws-heading-5-font-family: var(--ws-primary-font-family);
+            --ws-heading-5-font-size: 18;
+            --ws-heading-5-line-height: 1.778em;
+            --ws-heading-5-font-weight: 400;
+            --ws-heading-5-font-weight-emulation: none;
+            --ws-heading-5-font-style: normal;
+            --ws-heading-5-text-transform: none;
+            --ws-heading-5-letter-spacing: normal;
+            --ws-heading-5-text-decoration: none;
+            --ws-heading-6-font-family: var(--ws-secondary-font-family);
+            --ws-heading-6-font-size: 16;
+            --ws-heading-6-line-height: 1.75em;
+            --ws-heading-6-font-weight: 600;
+            --ws-heading-6-font-weight-emulation: none;
+            --ws-heading-6-font-style: normal;
+            --ws-heading-6-text-transform: uppercase;
+            --ws-heading-6-letter-spacing: 0.125em;
+            --ws-heading-6-text-decoration: none;
+            --ws-base-font-family: var(--ws-primary-font-family);
+            --ws-base-font-size: 16px;
+            --ws-base-line-height: 1.75em;
+            --ws-base-font-weight: 400;
+            --ws-base-font-weight-emulation: none;
+            --ws-base-font-style: normal;
+            --ws-base-text-transform: none;
+            --ws-base-letter-spacing: normal;
+            --ws-base-text-decoration: none;
+            --ws-blockquote-font-family: var(--ws-primary-font-family);
+            --ws-blockquote-font-size: var(--ws-base-font-size);
+            --ws-blockquote-line-height: var(--ws-base-line-height);
+            --ws-blockquote-font-weight: var(--ws-base-font-weight);
+            --ws-blockquote-font-weight-emulation: var(--ws-base-font-weight-emulation);
+            --ws-blockquote-font-style: var(--ws-base-font-style);
+            --ws-blockquote-text-transform: var(--ws-base-text-transform);
+            --ws-blockquote-letter-spacing: var(--ws-base-letter-spacing);
+            --ws-blockquote-text-decoration: var(--ws-base-text-decoration);
+            --ws-base-font-weight-bold: 700;
+            --ws-base-font-weight-bold-emulation: none;
+            --ws-heading-1-font-weight-bold: 900;
+            --ws-heading-1-font-weight-bold-emulation: none;
+            --ws-heading-2-font-weight-bold: 900;
+            --ws-heading-2-font-weight-bold-emulation: none;
+            --ws-heading-3-font-weight-bold: 700;
+            --ws-heading-3-font-weight-bold-emulation: none;
+            --ws-heading-4-font-weight-bold: 700;
+            --ws-heading-4-font-weight-bold-emulation: none;
+            --ws-heading-5-font-weight-bold: 700;
+            --ws-heading-5-font-weight-bold-emulation: none;
+            --ws-heading-6-font-weight-bold: 700;
+            --ws-heading-6-font-weight-bold-emulation: none;
+            --ws-label-font-weight-bold: 700;
+            --ws-label-font-weight-bold-emulation: none;
+            --ws-button-font-family: var(--ws-secondary-font-family);
+            --ws-button-font-size: var(--ws-base-font-size);
+            --ws-button-line-height: var(--ws-base-line-height);
+            --ws-button-font-weight: 600;
+            --ws-button-font-weight-emulation: var(--ws-base-font-weight-emulation);
+            --ws-button-font-style: var(--ws-base-font-style);
+            --ws-button-text-transform: var(--ws-base-text-transform);
+            --ws-button-letter-spacing: var(--ws-base-letter-spacing);
+            --ws-featured-link-font-family: var(--ws-secondary-font-family);
+            --ws-featured-link-font-size: var(--ws-base-font-size);
+            --ws-featured-link-line-height: var(--ws-base-line-height);
+            --ws-featured-link-font-weight: 600;
+            --ws-featured-link-font-weight-emulation: var(--ws-base-font-weight-emulation);
+            --ws-featured-link-font-style: var(--ws-base-font-style);
+            --ws-featured-link-text-transform: var(--ws-base-text-transform);
+            --ws-featured-link-letter-spacing: var(--ws-base-letter-spacing);
+            --ws-featured-link-text-decoration: var(--ws-base-text-decoration);
+            --ws-site-name-font-family: var(--ws-secondary-font-family);
+            --ws-site-name-font-size: 22px;
+            --ws-site-name-line-height: 1.636em;
+            --ws-site-name-font-weight: 700;
+            --ws-site-name-font-weight-emulation: var(--ws-base-font-weight-emulation);
+            --ws-site-name-font-style: var(--ws-base-font-style);
+            --ws-site-name-text-transform: uppercase;
+            --ws-site-name-letter-spacing: var(--ws-base-letter-spacing);
+            --ws-site-name-text-decoration: var(--ws-base-text-decoration);
+            --ws-m-header-phone-font-family: var(--ws-primary-font-family);
+            --ws-m-header-phone-font-size: 24px;
+            --ws-m-header-phone-line-height: 1.67em;
+            --ws-m-header-phone-font-weight: var(--ws-base-font-weight);
+            --ws-m-header-phone-font-weight-emulation: var(--ws-base-font-weight-emulation);
+            --ws-m-header-phone-font-style: var(--ws-base-font-style);
+            --ws-m-header-phone-text-transform: var(--ws-base-text-transform);
+            --ws-m-header-phone-letter-spacing: var(--ws-base-letter-spacing);
+            --ws-m-header-phone-text-decoration: var(--ws-base-text-decoration);
+            --ws-nav-menu-items-font-family: var(--ws-base-font-family);
+            --ws-nav-menu-items-font-size: var(--ws-base-font-size);
+            --ws-nav-menu-items-line-height: var(--ws-base-line-height);
+            --ws-nav-menu-items-font-weight: 600;
+            --ws-nav-menu-items-font-weight-emulation: var(--ws-base-font-weight-emulation);
+            --ws-nav-menu-items-font-style: var(--ws-base-font-style);
+            --ws-nav-menu-items-text-transform: uppercase;
+            --ws-nav-menu-items-letter-spacing: var(--ws-base-letter-spacing);
+            --ws-label-font-family: var(--ws-base-font-family);
+            --ws-label-font-size: var(--ws-base-font-size);
+            --ws-label-line-height: var(--ws-base-line-height);
+            --ws-label-font-weight: var(--ws-base-font-weight);
+            --ws-label-font-weight-emulation: var(--ws-base-font-weight-emulation);
+            --ws-label-font-style: var(--ws-base-font-style);
+            --ws-label-text-transform: var(--ws-base-text-transform);
+            --ws-label-letter-spacing: var(--ws-base-letter-spacing);
+            --ws-input-font-family: var(--ws-base-font-family);
+            --ws-input-font-size: var(--ws-base-font-size);
+            --ws-input-line-height: var(--ws-base-line-height);
+            --ws-input-font-weight: var(--ws-base-font-weight);
+            --ws-input-font-weight-emulation: var(--ws-base-font-weight-emulation);
+            --ws-input-font-style: var(--ws-base-font-style);
+            --ws-input-text-transform: var(--ws-base-text-transform);
+            --ws-input-letter-spacing: var(--ws-base-letter-spacing);
+            --ws-heading-6-decor-font-family: var(--ws-secondary-font-family);
+            --ws-heading-6-decor-font-size: 100;
+            --ws-heading-6-decor-line-height: 1.071em;
+            --ws-heading-6-decor-font-weight: 700;
+            --ws-heading-6-decor-font-weight-emulation: none;
+            --ws-heading-6-decor-font-style: normal;
+            --ws-heading-6-decor-text-transform: uppercase;
+            --ws-heading-6-decor-letter-spacing: normal;
+            --ws-heading-6-decor-text-decoration: none;
+            --ws-heading-6-decor-font-weight-bold: 900;
+            --ws-heading-6-decor-font-weight-bold-emulation: none
+          }
+
+:root {
+            --ws-button-border-radius: var(--ws-button-border-radius-medium);
+            --ws-button-padding-horizontal: var(--ws-button-padding-horizontal-large);
+          }
+
+          ws-button[data-type='primary']>a,
+          ws-contact-form-container ws-button[type='submit'],
+          .ws-m-pricing-with-icon article ws-button>a,
+          .ws-m-table-with-buttons table td ws-button>a,
+          ws-header ws-button[slot='primary-button']>a {
+            --ws-primary-button-background-color: var(--ws-surface-primary-button-1-background-color);
+            --ws-primary-button-background-opacity: var(--ws-surface-primary-button-1-background-opacity);
+            --ws-primary-button-text-color: var(--ws-surface-primary-button-1-text-color);
+            --ws-primary-button-text-color-opacity: var(--ws-surface-primary-button-1-text-color-opacity);
+            --ws-primary-button-border-color: var(--ws-surface-primary-button-1-border-color);
+            --ws-primary-button-border-opacity: var(--ws-surface-primary-button-1-border-opacity);
+            --ws-primary-button-icon-color: var(--ws-surface-primary-button-2-icon-color);
+            --ws-primary-button-icon-opacity: var(--ws-surface-primary-button-2-icon-opacity);
+            --ws-primary-button-icon-background-color: var(--ws-surface-primary-button-2-icon-background-color);
+            --ws-primary-button-icon-background-opacity: var(--ws-surface-primary-button-2-icon-background-opacity);
+            --ws-primary-button-hover-background-color: var(--ws-surface-primary-button-1-hover-background-color);
+            --ws-primary-button-hover-background-opacity: var(--ws-surface-primary-button-1-hover-background-opacity);
+            --ws-primary-button-hover-icon-color: var(--ws-surface-primary-button-2-hover-icon-color);
+            --ws-primary-button-hover-icon-opacity: var(--ws-surface-primary-button-2-hover-icon-opacity);
+            --ws-primary-button-hover-icon-background-color: var(--ws-surface-primary-button-2-hover-icon-background-color);
+            --ws-primary-button-hover-icon-background-opacity: var(--ws-surface-primary-button-2-hover-icon-background-opacity);
+            --ws-primary-button-hover-text-color: var(--ws-surface-primary-button-1-hover-text-color);
+            --ws-primary-button-hover-text-color-opacity: var(--ws-surface-primary-button-1-hover-text-color-opacity);
+            --ws-primary-button-hover-border-color: var(--ws-surface-primary-button-1-hover-border-color);
+            --ws-primary-button-hover-border-opacity: var(--ws-surface-primary-button-1-hover-border-opacity);
+            --ws-primary-button-active-background-color: var(--ws-surface-primary-button-1-active-background-color);
+            --ws-primary-button-active-background-opacity: var(--ws-surface-primary-button-1-active-background-opacity);
+            --ws-primary-button-active-icon-color: var(--ws-surface-primary-button-2-active-icon-color);
+            --ws-primary-button-active-icon-opacity: var(--ws-surface-primary-button-2-active-icon-opacity);
+            --ws-primary-button-active-icon-background-color: var(--ws-surface-primary-button-2-active-icon-background-color);
+            --ws-primary-button-active-icon-background-opacity: var(--ws-surface-primary-button-2-active-icon-background-opacity);
+            --ws-primary-button-active-text-color: var(--ws-surface-primary-button-1-active-text-color);
+            --ws-primary-button-active-text-color-opacity: var(--ws-surface-primary-button-1-active-text-color-opacity);
+            --ws-primary-button-active-border-color: var(--ws-surface-primary-button-1-active-border-color);
+            --ws-primary-button-active-border-opacity: var(--ws-surface-primary-button-1-active-border-opacity);
+            --ws-primary-button-disabled-background-color: var(--ws-surface-primary-button-1-disabled-background-color);
+            --ws-primary-button-disabled-background-opacity: var(--ws-surface-primary-button-1-disabled-background-opacity);
+            --ws-primary-button-disabled-icon-color: var(--ws-surface-primary-button-2-disabled-icon-color);
+            --ws-primary-button-disabled-icon-opacity: var(--ws-surface-primary-button-2-disabled-icon-opacity);
+            --ws-primary-button-disabled-icon-background-color: var(--ws-surface-primary-button-2-disabled-icon-background-color);
+            --ws-primary-button-disabled-icon-background-opacity: var(--ws-surface-primary-button-2-disabled-icon-background-opacity);
+            --ws-primary-button-disabled-text-color: var(--ws-surface-primary-button-1-disabled-text-color);
+            --ws-primary-button-disabled-text-color-opacity: var(--ws-surface-primary-button-1-disabled-text-color-opacity);
+            --ws-primary-button-disabled-border-color: var(--ws-surface-primary-button-1-disabled-border-color);
+            --ws-primary-button-disabled-border-opacity: var(--ws-surface-primary-button-1-disabled-border-opacity);
+            --ws-primary-button-icon-content: var(--ws-content-hidden);
+            --ws-primary-button-focus-outline-color: var(--ws-surface-focus-outline-color);
+            --ws-primary-button-focus-outline-color-opacity: var(--ws-surface-focus-outline-color-opacity)
+          }
+
+          ws-button[data-type='secondary']>a,
+          ws-header ws-button[slot='secondary-button']>a {
+            --ws-secondary-button-background-color: var(--ws-surface-secondary-button-3-background-color);
+            --ws-secondary-button-background-opacity: var(--ws-surface-secondary-button-3-background-opacity);
+            --ws-secondary-button-text-color: var(--ws-surface-secondary-button-3-text-color);
+            --ws-secondary-button-text-color-opacity: var(--ws-surface-secondary-button-3-text-color-opacity);
+            --ws-secondary-button-border-color: var(--ws-surface-secondary-button-3-border-color);
+            --ws-secondary-button-border-opacity: var(--ws-surface-secondary-button-3-border-opacity);
+            --ws-secondary-button-hover-background-color: var(--ws-surface-secondary-button-3-hover-background-color);
+            --ws-secondary-button-hover-background-opacity: var(--ws-surface-secondary-button-3-hover-background-opacity);
+            --ws-secondary-button-hover-text-color: var(--ws-surface-secondary-button-3-hover-text-color);
+            --ws-secondary-button-hover-text-color-opacity: var(--ws-surface-secondary-button-3-hover-text-color-opacity);
+            --ws-secondary-button-hover-border-color: var(--ws-surface-secondary-button-3-hover-border-color);
+            --ws-secondary-button-hover-border-opacity: var(--ws-surface-secondary-button-3-hover-border-opacity);
+            --ws-secondary-button-active-background-color: var(--ws-surface-secondary-button-3-active-background-color);
+            --ws-secondary-button-active-background-opacity: var(--ws-surface-secondary-button-3-active-background-opacity);
+            --ws-secondary-button-active-text-color: var(--ws-surface-secondary-button-3-active-text-color);
+            --ws-secondary-button-active-text-color-opacity: var(--ws-surface-secondary-button-3-active-text-color-opacity);
+            --ws-secondary-button-active-border-color: var(--ws-surface-secondary-button-3-active-border-color);
+            --ws-secondary-button-active-border-opacity: var(--ws-surface-secondary-button-3-active-border-opacity);
+            --ws-secondary-button-disabled-background-color: var(--ws-surface-secondary-button-3-disabled-background-color);
+            --ws-secondary-button-disabled-background-opacity: var(--ws-surface-secondary-button-3-disabled-background-opacity);
+            --ws-secondary-button-disabled-text-color: var(--ws-surface-secondary-button-3-disabled-text-color);
+            --ws-secondary-button-disabled-text-color-opacity: var(--ws-surface-secondary-button-3-disabled-text-color-opacity);
+            --ws-secondary-button-disabled-border-color: var(--ws-surface-secondary-button-3-disabled-border-color);
+            --ws-secondary-button-disabled-border-opacity: var(--ws-surface-secondary-button-3-disabled-border-opacity);
+            --ws-secondary-button-focus-outline-color: var(--ws-surface-focus-outline-color);
+            --ws-secondary-button-focus-outline-color-opacity: var(--ws-surface-focus-outline-color-opacity)
+          }
+
+:root {
+            --custom-color-1723379410470: hsl(0, 0%, 100%);
+            --custom-color-1723390300877: hsla(156.45, 91.45%, 77.06%, 1);
+            --custom-color-1723390982288: hsla(38.82, 100%, 50%, 1);
+            --custom-color-1723394963439: hsla(0, 93.74%, 57.49%, 1);
+            --custom-color-1723390896258: hsla(29.88, 100%, 60.87%, 1);
+          }
+
+          #ws-block-custom-GHu9PqSg .ws-dark-1 {
+            --text-color-1723393897541-1723390982288: var(--custom-color-1723390982288);
+            --text-color-1723393903548-1723379410470: var(--custom-color-1723379410470);
+            --text-color-1723393938511-1723390300877: var(--custom-color-1723390300877);
+          }
+
+          #ws-block-custom-download .ws-dark-1 {
+            --text-color-1723379410470-1723379410470: var(--custom-color-1723379410470);
+          }
+
+          #ws-block-custom-9676cUVV .ws-dark-0 {
+            --text-color-1723394941275-1723390300877: var(--custom-color-1723390300877);
+            --text-color-1723394963439-1723394963439: hsla(358.35, 88.08%, 61.14%, 1);
+            --text-color-1723395045680-1723390896258: var(--custom-color-1723390896258);
+            --text-color-1723395136141-1723390982288: var(--custom-color-1723390982288);
+            --text-color-1723395149974-1723379410470: var(--custom-color-1723379410470);
+          }
+
+          #ws-block-custom-jLgb4m4f .ws-dark-1 {
+            --text-color-1723395621142-1723379410470: var(--custom-color-1723379410470);
+          }
+
+[auto-collapse="disabled"],
+                                [dummy-element] {
+                                  position: absolute !important;
+                                  right: 0 !important;
+                                  pointer-events: none !important;
+                                  opacity: 0 !important;
+                                  visibility: hidden !important;
+                                }
+
+.ws-background-container-content {
+                position: relative;
+                height: 100%;
+                overflow: hidden;
+              }
+
+              .ws-background-image-container {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                transform: translate(-50%, -50%);
+              }
+
+              .ws-inner-background-image {
+                width: 100%;
+                height: 100%;
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover;
+              }
+
+              .ws-background-container-overlay {
+                display: none;
+                position: absolute;
+                left: 0;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                opacity: 0;
+                background: hsl(var(--ws-surface-background-color));
+                pointer-events: none;
+              }
+
+              .ws-background-loading {
+                opacity: 0;
+              }
+
+              .ws-background-loaded {
+                transition: opacity 1s;
+                opacity: 1;
+              }
+
+              .ws-safe-mode .ws-background-loading {
+                opacity: 1;
+              }
+
+              [part="decoration"] {
+                display: none;
+              }
+
+.ws-background-container-content {
+                position: relative;
+                height: 100%;
+                overflow: hidden;
+              }
+
+              .ws-background-image-container {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                transform: translate(-50%, -50%);
+              }
+
+              .ws-inner-background-image {
+                width: 100%;
+                height: 100%;
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover;
+              }
+
+              .ws-background-container-overlay {
+                display: none;
+                position: absolute;
+                left: 0;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                opacity: 0;
+                background: hsl(var(--ws-surface-background-color));
+                pointer-events: none;
+              }
+
+              .ws-background-loading {
+                opacity: 0;
+              }
+
+              .ws-background-loaded {
+                transition: opacity 1s;
+                opacity: 1;
+              }
+
+              .ws-safe-mode .ws-background-loading {
+                opacity: 1;
+              }
+
+              [part="decoration"] {
+                display: none;
+              }
+
+.ws-background-container-content {
+                position: relative;
+                height: 100%;
+                overflow: hidden;
+              }
+
+              .ws-background-image-container {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                transform: translate(-50%, -50%);
+              }
+
+              .ws-inner-background-image {
+                width: 100%;
+                height: 100%;
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover;
+              }
+
+              .ws-background-container-overlay {
+                display: none;
+                position: absolute;
+                left: 0;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                opacity: 0;
+                background: hsl(var(--ws-surface-background-color));
+                pointer-events: none;
+              }
+
+              .ws-background-loading {
+                opacity: 0;
+              }
+
+              .ws-background-loaded {
+                transition: opacity 1s;
+                opacity: 1;
+              }
+
+              .ws-safe-mode .ws-background-loading {
+                opacity: 1;
+              }
+
+              [part="decoration"] {
+                display: none;
+              }
+
+.ws-background-container-content {
+                position: relative;
+                height: 100%;
+                overflow: hidden;
+              }
+
+              .ws-background-image-container {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                transform: translate(-50%, -50%);
+              }
+
+              .ws-inner-background-image {
+                width: 100%;
+                height: 100%;
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover;
+              }
+
+              .ws-background-container-overlay {
+                display: none;
+                position: absolute;
+                left: 0;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                opacity: 0;
+                background: hsl(var(--ws-surface-background-color));
+                pointer-events: none;
+              }
+
+              .ws-background-loading {
+                opacity: 0;
+              }
+
+              .ws-background-loaded {
+                transition: opacity 1s;
+                opacity: 1;
+              }
+
+              .ws-safe-mode .ws-background-loading {
+                opacity: 1;
+              }
+
+              [part="decoration"] {
+                display: none;
+              }
+
+:host {
+                                  display: block;
+                                  max-width: var(--ws-media-container-max-width, none);
+                                  margin-right: var(--ws-media-container-margin-right, auto);
+                                  margin-left: var(--ws-media-container-margin-left, auto);
+                                }
+
+                                .media-wrapper {
+                                  position: relative;
+                                  height: 100%;
+                                  overflow: hidden;
+                                  border-top-left-radius: var(--ws-media-container-border-top-left-radius, var(--ws-media-container-border-radius));
+                                  border-top-right-radius: var(--ws-media-container-border-top-right-radius, var(--ws-media-container-border-radius));
+                                  border-bottom-left-radius: var(--ws-media-container-border-bottom-left-radius, var(--ws-media-container-border-radius));
+                                  border-bottom-right-radius: var(--ws-media-container-border-bottom-right-radius, var(--ws-media-container-border-radius));
+                                  user-select: none;
+                                }
+
+                                .ws-media-content-container.has-image:not(.ws-safe-mode) {
+                                  display: grid;
+                                  position: absolute;
+                                  transform: translate(-50%, -50%);
+                                  opacity: 0;
+                                  transition: opacity 1s;
+                                }
+
+                                ::slotted(a.ws-visible),
+                                ::slotted(picture.ws-visible),
+                                ::slotted(img.ws-visible),
+                                .ws-media-content-container.has-image:not(.ws-safe-mode).loaded {
+                                  opacity: 1;
+                                }
+
+                                [part="decoration"] {
+                                  display: none;
+                                }
+
+.ws-background-container-content {
+                position: relative;
+                height: 100%;
+                overflow: hidden;
+              }
+
+              .ws-background-image-container {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                transform: translate(-50%, -50%);
+              }
+
+              .ws-inner-background-image {
+                width: 100%;
+                height: 100%;
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover;
+              }
+
+              .ws-background-container-overlay {
+                display: none;
+                position: absolute;
+                left: 0;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                opacity: 0;
+                background: hsl(var(--ws-surface-background-color));
+                pointer-events: none;
+              }
+
+              .ws-background-loading {
+                opacity: 0;
+              }
+
+              .ws-background-loaded {
+                transition: opacity 1s;
+                opacity: 1;
+              }
+
+              .ws-safe-mode .ws-background-loading {
+                opacity: 1;
+              }
+
+              [part="decoration"] {
+                display: none;
+              }
+
+.ws-background-container-content {
+                position: relative;
+                height: 100%;
+                overflow: hidden;
+              }
+
+              .ws-background-image-container {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                transform: translate(-50%, -50%);
+              }
+
+              .ws-inner-background-image {
+                width: 100%;
+                height: 100%;
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover;
+              }
+
+              .ws-background-container-overlay {
+                display: none;
+                position: absolute;
+                left: 0;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                opacity: 0;
+                background: hsl(var(--ws-surface-background-color));
+                pointer-events: none;
+              }
+
+              .ws-background-loading {
+                opacity: 0;
+              }
+
+              .ws-background-loaded {
+                transition: opacity 1s;
+                opacity: 1;
+              }
+
+              .ws-safe-mode .ws-background-loading {
+                opacity: 1;
+              }
+
+              [part="decoration"] {
+                display: none;
+              }
+
+:host {
+                                  display: block;
+                                  max-width: var(--ws-media-container-max-width, none);
+                                  margin-right: var(--ws-media-container-margin-right, auto);
+                                  margin-left: var(--ws-media-container-margin-left, auto);
+                                }
+
+                                .media-wrapper {
+                                  position: relative;
+                                  height: 100%;
+                                  overflow: hidden;
+                                  border-top-left-radius: var(--ws-media-container-border-top-left-radius, var(--ws-media-container-border-radius));
+                                  border-top-right-radius: var(--ws-media-container-border-top-right-radius, var(--ws-media-container-border-radius));
+                                  border-bottom-left-radius: var(--ws-media-container-border-bottom-left-radius, var(--ws-media-container-border-radius));
+                                  border-bottom-right-radius: var(--ws-media-container-border-bottom-right-radius, var(--ws-media-container-border-radius));
+                                  user-select: none;
+                                }
+
+                                .ws-media-content-container.has-image:not(.ws-safe-mode) {
+                                  display: grid;
+                                  position: absolute;
+                                  transform: translate(-50%, -50%);
+                                  opacity: 0;
+                                  transition: opacity 1s;
+                                }
+
+                                ::slotted(a.ws-visible),
+                                ::slotted(picture.ws-visible),
+                                ::slotted(img.ws-visible),
+                                .ws-media-content-container.has-image:not(.ws-safe-mode).loaded {
+                                  opacity: 1;
+                                }
+
+                                [part="decoration"] {
+                                  display: none;
+                                }
+
+:host {
+                                  display: block;
+                                  max-width: var(--ws-media-container-max-width, none);
+                                  margin-right: var(--ws-media-container-margin-right, auto);
+                                  margin-left: var(--ws-media-container-margin-left, auto);
+                                }
+
+                                .media-wrapper {
+                                  position: relative;
+                                  height: 100%;
+                                  overflow: hidden;
+                                  border-top-left-radius: var(--ws-media-container-border-top-left-radius, var(--ws-media-container-border-radius));
+                                  border-top-right-radius: var(--ws-media-container-border-top-right-radius, var(--ws-media-container-border-radius));
+                                  border-bottom-left-radius: var(--ws-media-container-border-bottom-left-radius, var(--ws-media-container-border-radius));
+                                  border-bottom-right-radius: var(--ws-media-container-border-bottom-right-radius, var(--ws-media-container-border-radius));
+                                  user-select: none;
+                                }
+
+                                .ws-media-content-container.has-image:not(.ws-safe-mode) {
+                                  display: grid;
+                                  position: absolute;
+                                  transform: translate(-50%, -50%);
+                                  opacity: 0;
+                                  transition: opacity 1s;
+                                }
+
+                                ::slotted(a.ws-visible),
+                                ::slotted(picture.ws-visible),
+                                ::slotted(img.ws-visible),
+                                .ws-media-content-container.has-image:not(.ws-safe-mode).loaded {
+                                  opacity: 1;
+                                }
+
+                                [part="decoration"] {
+                                  display: none;
+                                }
+
+:host {
+                                  display: block;
+                                  max-width: var(--ws-media-container-max-width, none);
+                                  margin-right: var(--ws-media-container-margin-right, auto);
+                                  margin-left: var(--ws-media-container-margin-left, auto);
+                                }
+
+                                .media-wrapper {
+                                  position: relative;
+                                  height: 100%;
+                                  overflow: hidden;
+                                  border-top-left-radius: var(--ws-media-container-border-top-left-radius, var(--ws-media-container-border-radius));
+                                  border-top-right-radius: var(--ws-media-container-border-top-right-radius, var(--ws-media-container-border-radius));
+                                  border-bottom-left-radius: var(--ws-media-container-border-bottom-left-radius, var(--ws-media-container-border-radius));
+                                  border-bottom-right-radius: var(--ws-media-container-border-bottom-right-radius, var(--ws-media-container-border-radius));
+                                  user-select: none;
+                                }
+
+                                .ws-media-content-container.has-image:not(.ws-safe-mode) {
+                                  display: grid;
+                                  position: absolute;
+                                  transform: translate(-50%, -50%);
+                                  opacity: 0;
+                                  transition: opacity 1s;
+                                }
+
+                                ::slotted(a.ws-visible),
+                                ::slotted(picture.ws-visible),
+                                ::slotted(img.ws-visible),
+                                .ws-media-content-container.has-image:not(.ws-safe-mode).loaded {
+                                  opacity: 1;
+                                }
+
+                                [part="decoration"] {
+                                  display: none;
+                                }
+
+:host {
+                                  display: block;
+                                  max-width: var(--ws-media-container-max-width, none);
+                                  margin-right: var(--ws-media-container-margin-right, auto);
+                                  margin-left: var(--ws-media-container-margin-left, auto);
+                                }
+
+                                .media-wrapper {
+                                  position: relative;
+                                  height: 100%;
+                                  overflow: hidden;
+                                  border-top-left-radius: var(--ws-media-container-border-top-left-radius, var(--ws-media-container-border-radius));
+                                  border-top-right-radius: var(--ws-media-container-border-top-right-radius, var(--ws-media-container-border-radius));
+                                  border-bottom-left-radius: var(--ws-media-container-border-bottom-left-radius, var(--ws-media-container-border-radius));
+                                  border-bottom-right-radius: var(--ws-media-container-border-bottom-right-radius, var(--ws-media-container-border-radius));
+                                  user-select: none;
+                                }
+
+                                .ws-media-content-container.has-image:not(.ws-safe-mode) {
+                                  display: grid;
+                                  position: absolute;
+                                  transform: translate(-50%, -50%);
+                                  opacity: 0;
+                                  transition: opacity 1s;
+                                }
+
+                                ::slotted(a.ws-visible),
+                                ::slotted(picture.ws-visible),
+                                ::slotted(img.ws-visible),
+                                .ws-media-content-container.has-image:not(.ws-safe-mode).loaded {
+                                  opacity: 1;
+                                }
+
+                                [part="decoration"] {
+                                  display: none;
+                                }
+
+/* Extracted inline styles */
+.extracted-style-001 { width: 250px; height: auto; max-width: 250px; }
+.extracted-style-002 { width: 30px; height: 30px; }
+.extracted-style-003 { width: 30px; height: 30px; }
+.extracted-style-004 { width: 30px; height: 30px; }
+.extracted-style-005 { width: 152.922%; left: 50%; top: 50%; height: 130%; }
+.extracted-style-006 { background-image: url(&quot;/ws/media-library/957940d3ce364bf6a5e1833c79db03a7/7cad8f63-5179-497c-a86a-62caeecb35ef.webp&quot;); }
+.extracted-style-007 { display: block; opacity: 0.48; }
+.extracted-style-008 { width: 806px; }
+.extracted-style-009 { width: 223.77%; left: 50%; top: 50%; height: 100%; }
+.extracted-style-010 { background-image: url(&quot;/ws/media-library/34e4011ea39a4a479a320047803bfb63/f23fac48-2bf1-40b6-a23c-c351c2a44e5a.webp&quot;); }
+.extracted-style-011 { display: block; opacity: 0.5; }
+.extracted-style-012 { height: 499px; }
+.extracted-style-013 { text-align: center; }
+.extracted-style-014 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-015 { text-align: center; }
+.extracted-style-016 { color: var(--text-color-1723393897541-1723390982288); }
+.extracted-style-017 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-018 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-019 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-020 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-021 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-022 { color: var(--text-color-1723393938511-1723390300877); }
+.extracted-style-023 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-024 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-025 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-026 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-027 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-028 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-029 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-030 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-031 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-032 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-033 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-034 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-035 { color: var(--text-color-1723393903548-1723379410470); }
+.extracted-style-036 { width: 283.258%; left: 50%; top: 50%; height: 100%; }
+.extracted-style-037 { background-image: url(&quot;/ws/media-library/1dd1af0343654c32a1818a1a3e01e1dd/28f4986f-1dba-4a54-85f1-666abbdb2376.webp&quot;); }
+.extracted-style-038 { display: block; opacity: 0.32; }
+.extracted-style-039 { width: 966px; }
+.extracted-style-040 { text-align: center; }
+.extracted-style-041 { color: var(--text-color-1723391528069-1723390982288); }
+.extracted-style-042 { color: var(--text-color-1723379410470-1723379410470); }
+.extracted-style-043 { color: var(--text-color-1723379410470-1723379410470); }
+.extracted-style-044 { color: var(--text-color-1723379410470-1723379410470); }
+.extracted-style-045 { color: var(--text-color-1723379410470-1723379410470); }
+.extracted-style-046 { color: var(--text-color-1723379410470-1723379410470); }
+.extracted-style-047 { color: var(--text-color-1723379410470-1723379410470); }
+.extracted-style-048 { width: 1006px; }
+.extracted-style-049 { color: var(--text-color-1723379410470-1723379410470); }
+.extracted-style-050 { color: var(--text-color-1723379410470-1723379410470); }
+.extracted-style-051 { color: var(--text-color-1723379410470-1723379410470); }
+.extracted-style-052 { width: 103.137%; left: 50%; top: 50%; height: 100%; }
+.extracted-style-053 { background-image: url(&quot;/ws/media-library/d6e8c3db7ecd416384941e053d1b1889/ce12669f-2aba-4921-a799-686e0da11bfd.webp&quot;); }
+.extracted-style-054 { display: block; opacity: 0.04; }
+.extracted-style-055 { width: 195px; height: 408px; }
+.extracted-style-056 { left: 50%; top: 50%; width: 100.004%; height: 100%; }
+.extracted-style-057 { text-align: center; }
+.extracted-style-058 { width: 215.482%; left: 50%; top: 50%; height: 100%; }
+.extracted-style-059 { background-image: url(&quot;/ws/media-library/79fe8ca44d3a4f419cc1ac50651c9755/a1e032a4-80a3-4e1b-977c-6e91db02cf4d.webp&quot;); }
+.extracted-style-060 { display: block; opacity: 0.38; }
+.extracted-style-061 { color: var(--text-color-1723395149974-1723379410470); }
+.extracted-style-062 { color: var(--text-color-1723394941275-1723390300877); }
+.extracted-style-063 { color: var(--text-color-1723394963439-1723394963439); }
+.extracted-style-064 { color: var(--text-color-1723395149974-1723379410470); }
+.extracted-style-065 { color: var(--text-color-1723395149974-1723379410470); }
+.extracted-style-066 { text-align: center; }
+.extracted-style-067 { color: var(--text-color-1723395045680-1723390896258); }
+.extracted-style-068 { color: var(--text-color-1723395149974-1723379410470); }
+.extracted-style-069 { color: var(--text-color-1723394941275-1723390300877); }
+.extracted-style-070 { color: var(--text-color-1723395136141-1723390982288); }
+.extracted-style-071 { color: var(--text-color-1723394941275-1723390300877); }
+.extracted-style-072 { color: var(--text-color-1723395136141-1723390982288); }
+.extracted-style-073 { color: var(--text-color-1723395149974-1723379410470); }
+.extracted-style-074 { color: var(--text-color-1723395149974-1723379410470); }
+.extracted-style-075 { color: var(--text-color-1723395149974-1723379410470); }
+.extracted-style-076 { width: 111.147%; left: 50%; top: 50%; height: 100%; }
+.extracted-style-077 { background-image: url(&quot;/ws/media-library/93341079e2ca455ab25b6c44e5a8a1c3/52c31069-3edd-4e34-bc60-973f37011567.webp&quot;); }
+.extracted-style-078 { display: block; opacity: 0.78; }
+.extracted-style-079 { width: 428px; height: 500px; }
+.extracted-style-080 { left: 50%; top: 50%; width: 100%; height: 100.58%; }
+.extracted-style-081 { text-align: center; }
+.extracted-style-082 { color: var(--text-color-1723395621142-1723379410470); }
+.extracted-style-083 { color: var(--text-color-1723395621142-1723379410470); }
+.extracted-style-084 { height: 50px; }
+.extracted-style-085 { height: 166px; }
+.extracted-style-086 { width: 238px; height: 83px; }
+.extracted-style-087 { left: 50%; top: 50%; width: 100%; height: 122.431%; }
+.extracted-style-088 { width: 211px; height: 74px; }
+.extracted-style-089 { left: 50%; top: 50%; width: 100%; height: 121.743%; }
+.extracted-style-090 { height: 64px; }
+.extracted-style-091 { width: 236px; height: 80px; }
+.extracted-style-092 { left: 50%; top: 50%; width: 100%; height: 100.189%; }
+/* moved from index.html */
+:host {
+                            display: flex;
+                            position: relative;
+                          }
+
+                          ::slotted(svg) {
+                            width: 0;
+                            height: 0;
+                          }
+
+                          ::slotted(.ws-language-listbox-button) {
+                            outline: none;
+                          }
+
+                          ::slotted(.ws-language-listbox) {
+                            margin: 0;
+                            list-style: none;
+                          }
+
+                          ::slotted(.ws-language-listbox[hidden]) {
+                            display: none;
+                          }
+
+                          ::slotted(.ws-language-select) {
+                            position: absolute;
+                            top: 0;
+                            left: 0;
+                            width: 0;
+                            height: 100%;
+                            padding: 0 0 0 100%;
+                            background: none;
+                            border: none;
+                            -moz-appearance: none;
+                            -webkit-appearance: none;
+                            appearance: none;
+                            outline: none;
+                            z-index: 1;
+                          }
+
+:host([disconnected]) {
+                          display: none;
+                        }
+
+:host([disconnected]) {
+                                      display: none;
+                                    }
+
+:host([disconnected]) {
+                                      display: none;
+                                    }
+
+:host {
+                                  display: block;
+                                  max-width: var(--ws-media-container-max-width, none);
+                                  margin-right: var(--ws-media-container-margin-right, auto);
+                                  margin-left: var(--ws-media-container-margin-left, auto);
+                                }
+
+                                .media-wrapper {
+                                  position: relative;
+                                  height: 100%;
+                                  overflow: hidden;
+                                  border-top-left-radius: var(--ws-media-container-border-top-left-radius, var(--ws-media-container-border-radius));
+                                  border-top-right-radius: var(--ws-media-container-border-top-right-radius, var(--ws-media-container-border-radius));
+                                  border-bottom-left-radius: var(--ws-media-container-border-bottom-left-radius, var(--ws-media-container-border-radius));
+                                  border-bottom-right-radius: var(--ws-media-container-border-bottom-right-radius, var(--ws-media-container-border-radius));
+                                  user-select: none;
+                                }
+
+                                .ws-media-content-container.has-image:not(.ws-safe-mode) {
+                                  display: grid;
+                                  position: absolute;
+                                  transform: translate(-50%, -50%);
+                                  opacity: 0;
+                                  transition: opacity 1s;
+                                }
+
+                                ::slotted(a.ws-visible),
+                                ::slotted(picture.ws-visible),
+                                ::slotted(img.ws-visible),
+                                .ws-media-content-container.has-image:not(.ws-safe-mode).loaded {
+                                  opacity: 1;
+                                }
+
+                                [part="decoration"] {
+                                  display: none;
+                                }
+
+:host {
+                                    display: block;
+                                    max-width: var(--ws-media-container-max-width, none);
+                                    margin-right: var(--ws-media-container-margin-right, auto);
+                                    margin-left: var(--ws-media-container-margin-left, auto);
+                                  }
+
+                                  .media-wrapper {
+                                    position: relative;
+                                    height: 100%;
+                                    overflow: hidden;
+                                    border-top-left-radius: var(--ws-media-container-border-top-left-radius, var(--ws-media-container-border-radius));
+                                    border-top-right-radius: var(--ws-media-container-border-top-right-radius, var(--ws-media-container-border-radius));
+                                    border-bottom-left-radius: var(--ws-media-container-border-bottom-left-radius, var(--ws-media-container-border-radius));
+                                    border-bottom-right-radius: var(--ws-media-container-border-bottom-right-radius, var(--ws-media-container-border-radius));
+                                    user-select: none;
+                                  }
+
+                                  .ws-media-content-container.has-image:not(.ws-safe-mode) {
+                                    display: grid;
+                                    position: absolute;
+                                    transform: translate(-50%, -50%);
+                                    opacity: 0;
+                                    transition: opacity 1s;
+                                  }
+
+                                  ::slotted(a.ws-visible),
+                                  ::slotted(picture.ws-visible),
+                                  ::slotted(img.ws-visible),
+                                  .ws-media-content-container.has-image:not(.ws-safe-mode).loaded {
+                                    opacity: 1;
+                                  }
+
+                                  [part="decoration"] {
+                                    display: none;
+                                  }
+
+.ws-background-container-content {
+                position: relative;
+                height: 100%;
+                overflow: hidden;
+              }
+
+              .ws-background-image-container {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                transform: translate(-50%, -50%);
+              }
+
+              .ws-inner-background-image {
+                width: 100%;
+                height: 100%;
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover;
+              }
+
+              .ws-background-container-overlay {
+                display: none;
+                position: absolute;
+                left: 0;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                opacity: 0;
+                background: hsl(var(--ws-surface-background-color));
+                pointer-events: none;
+              }
+
+              .ws-background-loading {
+                opacity: 0;
+              }
+
+              .ws-background-loaded {
+                transition: opacity 1s;
+                opacity: 1;
+              }
+
+              .ws-safe-mode .ws-background-loading {
+                opacity: 1;
+              }
+
+              [part="decoration"] {
+                display: none;
+              }
+
+:host {
+                        display: block;
+                        max-width: var(--ws-media-container-max-width, none);
+                        margin-right: var(--ws-media-container-margin-right, auto);
+                        margin-left: var(--ws-media-container-margin-left, auto);
+                      }
+
+                      .media-wrapper {
+                        position: relative;
+                        height: 100%;
+                        overflow: hidden;
+                        border-top-left-radius: var(--ws-media-container-border-top-left-radius, var(--ws-media-container-border-radius));
+                        border-top-right-radius: var(--ws-media-container-border-top-right-radius, var(--ws-media-container-border-radius));
+                        border-bottom-left-radius: var(--ws-media-container-border-bottom-left-radius, var(--ws-media-container-border-radius));
+                        border-bottom-right-radius: var(--ws-media-container-border-bottom-right-radius, var(--ws-media-container-border-radius));
+                        user-select: none;
+                      }
+
+                      .ws-media-content-container.has-image:not(.ws-safe-mode) {
+                        display: grid;
+                        position: absolute;
+                        transform: translate(-50%, -50%);
+                        opacity: 0;
+                        transition: opacity 1s;
+                      }
+
+                      ::slotted(a.ws-visible),
+                      ::slotted(picture.ws-visible),
+                      ::slotted(img.ws-visible),
+                      .ws-media-content-container.has-image:not(.ws-safe-mode).loaded {
+                        opacity: 1;
+                      }
+
+                      [part="decoration"] {
+                        display: none;
+                      }
+
+.ws-background-container-content {
+                position: relative;
+                height: 100%;
+                overflow: hidden;
+              }
+
+              .ws-background-image-container {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                transform: translate(-50%, -50%);
+              }
+
+              .ws-inner-background-image {
+                width: 100%;
+                height: 100%;
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover;
+              }
+
+              .ws-background-container-overlay {
+                display: none;
+                position: absolute;
+                left: 0;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                opacity: 0;
+                background: hsl(var(--ws-surface-background-color));
+                pointer-events: none;
+              }
+
+              .ws-background-loading {
+                opacity: 0;
+              }
+
+              .ws-background-loaded {
+                transition: opacity 1s;
+                opacity: 1;
+              }
+
+              .ws-safe-mode .ws-background-loading {
+                opacity: 1;
+              }
+
+              [part="decoration"] {
+                display: none;
+              }
+
+:host {
+                                  display: block;
+                                  max-width: var(--ws-media-container-max-width, none);
+                                  margin-right: var(--ws-media-container-margin-right, auto);
+                                  margin-left: var(--ws-media-container-margin-left, auto);
+                                }
+
+                                .media-wrapper {
+                                  position: relative;
+                                  height: 100%;
+                                  overflow: hidden;
+                                  border-top-left-radius: var(--ws-media-container-border-top-left-radius, var(--ws-media-container-border-radius));
+                                  border-top-right-radius: var(--ws-media-container-border-top-right-radius, var(--ws-media-container-border-radius));
+                                  border-bottom-left-radius: var(--ws-media-container-border-bottom-left-radius, var(--ws-media-container-border-radius));
+                                  border-bottom-right-radius: var(--ws-media-container-border-bottom-right-radius, var(--ws-media-container-border-radius));
+                                  user-select: none;
+                                }
+
+                                .ws-media-content-container.has-image:not(.ws-safe-mode) {
+                                  display: grid;
+                                  position: absolute;
+                                  transform: translate(-50%, -50%);
+                                  opacity: 0;
+                                  transition: opacity 1s;
+                                }
+
+                                ::slotted(a.ws-visible),
+                                ::slotted(picture.ws-visible),
+                                ::slotted(img.ws-visible),
+                                .ws-media-content-container.has-image:not(.ws-safe-mode).loaded {
+                                  opacity: 1;
+                                }
+
+                                [part="decoration"] {
+                                  display: none;
+                                }
+
